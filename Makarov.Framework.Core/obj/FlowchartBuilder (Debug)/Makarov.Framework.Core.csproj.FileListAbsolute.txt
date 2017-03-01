@@ -1,0 +1,10 @@
+C:\MakarovProject\Makarov\Framework\Core\bin\FlowchartBuilder (Debug)\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov\Framework\Core\bin\FlowchartBuilder (Debug)\Makarov.Framework.Core.pdb
+C:\MakarovProject\Makarov\Framework\Core\obj\FlowchartBuilder (Debug)\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov\Framework\Core\obj\FlowchartBuilder (Debug)\Makarov.Framework.Core.BasicForm.resources
+C:\MakarovProject\Makarov\Framework\Core\obj\FlowchartBuilder (Debug)\Makarov.Framework.Core.CriticalErrorDialog.resources
+C:\MakarovProject\Makarov\Framework\Core\obj\FlowchartBuilder (Debug)\Makarov.Framework.Core.Properties.Resources.resources
+C:\MakarovProject\Makarov\Framework\Core\obj\FlowchartBuilder (Debug)\GenerateResource.read.1.tlog
+C:\MakarovProject\Makarov\Framework\Core\obj\FlowchartBuilder (Debug)\GenerateResource.write.1.tlog
+C:\MakarovProject\Makarov\Framework\Core\obj\FlowchartBuilder (Debug)\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov\Framework\Core\obj\FlowchartBuilder (Debug)\Makarov.Framework.Core.pdb

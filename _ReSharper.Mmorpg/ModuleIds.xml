@@ -1,0 +1,11 @@
+<Modules>
+  <Module PersistentId="A2A1B396-B774-434D-A220-E01B38CB3A38" ModuleId="Makarov.Game.Server" />
+  <Module PersistentId="E0AF32AD-FF06-4853-A423-70EC7F26B79C" ModuleId="Makarov.Game.Client" />
+  <Module PersistentId="B49FC517-3D70-4D86-8DDC-5F3E555FD820" ModuleId="Makarov.Framework.Launcher" />
+  <Module PersistentId="DD58B691-D561-4588-8D9F-9384845925D4" ModuleId="Makarov.Framework.Serialization" />
+  <Module PersistentId="BF0B57AE-9EAB-4206-BF30-12AB352C87B3" ModuleId="Makarov.Framework.Core" />
+  <Module PersistentId="753D2CE5-7041-49E1-9A94-907B27435EB6" ModuleId="Makarov.Framework.Graphics" />
+  <Module PersistentId="25C9D046-7DD9-4996-8CCD-41BF7B08B0AD" ModuleId="Makarov.Framework.Components" />
+  <Module PersistentId="E61960F5-0CA9-4CBC-A9E3-58B8A3937A96" ModuleId="Makarov.Framework.Graphics.OpenGL" />
+  <Module PersistentId="89141861-AB09-48B2-B7F4-54E64BC74D57" ModuleId="Makarov.Framework.Instance" />
+</Modules>

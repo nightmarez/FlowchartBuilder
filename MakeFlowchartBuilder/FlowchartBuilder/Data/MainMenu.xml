@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fb:MainMenu xmlns:fb="http://flowchartbuilder.blogspot.com"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://flowchartbuilder.blogspot.com MainMenu.xsd">
+  <fb:Menu Caption="Menu_File">
+    <fb:Command Class="NewCommand" Caption="Command_New" Shortcut="Ctrl+N" />
+    <fb:Command Class="OpenCommand" Caption="Command_Open" Icon="Open" Shortcut="Ctrl+O" />
+    <fb:Command Class="ExportImageCommand" Caption="Command_ExportImage" Enabled="false" />
+    <fb:Separator />
+    <fb:Command Class="SaveCommand" Caption="Command_Save" Icon="Save" Shortcut="Ctrl+S" />
+    <fb:Command Class="SaveAllCommand" Caption="Command_SaveAll" Icon="SaveAll" Enabled="false" />
+    <fb:Separator />
+    <fb:Command Class="CloseCommand" Caption="Command_Close" Enabled="false" />
+    <fb:Command Class="CloseAllCommand" Caption="Command_CloseAll" Enabled="false" />
+    <fb:Separator />
+    <fb:Command Class="PageSetupCommand" Caption="Command_PageSetup" Icon="PageSetup" Enabled="false" />
+    <fb:Command Class="PrintCommand" Caption="Command_Print" Icon="Print" Enabled="false" />
+    <fb:Separator />
+    <fb:Menu Caption="Menu_Debug">
+      <fb:Command Class="GCCollectCommand" Caption="Command_ForceGarbageCollection" />
+      <fb:Command Class="GCCollectAllCommand" Caption="Command_ForceFullGarbageCollection" />
+    </fb:Menu>
+    <fb:Separator/>
+    <fb:Command Class="ExitCommand" Caption="Command_Exit" />
+  </fb:Menu>
+  <fb:Menu Caption="Menu_Edit">
+    <fb:Command Class="UndoCommand" Caption="Command_Undo" Icon="Undo" Enabled="false" Shortcut="Ctrl+Z" />
+    <fb:Command Class="RedoCommand" Caption="Command_Redo" Icon="Redo" Enabled="false" Shortcut="Ctrl+Y" />
+    <fb:Separator />
+    <fb:Command Class="CutCommand" Caption="Command_Cut" Icon="Cut" Enabled="false" Shortcut="Ctrl+X" />
+    <fb:Command Class="CopyCommand" Caption="Command_Copy" Icon="Copy" Enabled="false" Shortcut="Ctrl+C" />
+    <fb:Command Class="PasteCommand" Caption="Command_Paste" Icon="Paste" Enabled="false" Shortcut="Ctrl+V" />
+    <fb:Command Class="DeleteCommand" Caption="Command_Delete" Icon="Delete" Enabled="false" Shortcut="Delete" />
+    <fb:Separator />
+    <fb:Command Class="SelectAllCommand" Caption="Command_SelectAll" Icon="SelectAll" Shortcut="Ctrl+A" />
+    <fb:Command Class="DeselectCommand" Caption="Command_Deselect" Icon="Deselect" />
+    <fb:Separator />
+    <fb:Command Class="FixSelectedCommand" Caption="Command_FixSelected" Enabled="false" />
+    <fb:Command Class="FixAllCommand" Caption="Command_FixAll" Enabled="false" />
+    <fb:Command Class="UnfixAllCommand" Caption="Command_UnfixAll" Enabled="false" />
+    <fb:Separator />
+    <fb:Command Class="GroupCommand" Caption="Command_Group" Enabled="false" Icon="Group" Shortcut="Ctrl+G" />
+    <fb:Command Class="UngroupCommand" Caption="Command_Ungroup" Enabled="false" Icon="Ungroup" />
+    <fb:Separator />
+    <fb:Menu Caption="Menu_Align">
+      <fb:Command Class="AlignLeftCommand" Caption="Command_AlignLeft" Icon="AlignLeft" />
+      <fb:Command Class="AlignRightCommand" Caption="Command_AlignRight" Icon="AlignRight" />
+      <fb:Command Class="AlignCenterHorizontalCommand" Caption="Command_AlignCenterHorizontal" Icon="AlignCenterHorizontal" />
+      <fb:Command Class="AlignCenterVerticalCommand" Caption="Command_AlignCenterVertical" Icon="AlignCenterVertical" />
+      <fb:Command Class="AlignTopCommand" Caption="Command_AlignTop" Icon="AlignTop" />
+      <fb:Command Class="AlignBottomCommand" Caption="Command_AlignBottom" Icon="AlignBottom" />
+    </fb:Menu>
+      <fb:Menu Caption="Menu_AlignOnSheet">
+      <fb:Command Class="AlignLeftSheetCommand" Caption="Command_AlignLeftSheet" Icon="AlignLeftSheet" />
+      <fb:Command Class="AlignRightSheetCommand" Caption="Command_AlignRightSheet" Icon="AlignRightSheet" />
+      <fb:Command Class="AlignCenterHorizontalSheetCommand" Caption="Command_AlignCenterHorizontalSheet" Icon="AlignCenterHorizontalSheet" />
+      <fb:Command Class="AlignCenterVerticalSheetCommand" Caption="Command_AlignCenterVerticalSheet" Icon="AlignCenterVerticalSheet" />
+      <fb:Command Class="AlignTopSheetCommand" Caption="Command_AlignTopSheet" Icon="AlignTopSheet" />
+      <fb:Command Class="AlignBottomSheetCommand" Caption="Command_AlignBottomSheet" Icon="AlignBottomSheet" />
+    </fb:Menu>
+  </fb:Menu>
+  <fb:Menu Caption="Menu_View">
+    <fb:Command Class="ZoomInCommand" Caption="Command_ZoomIn" Icon="ZoomIn" />
+    <fb:Command Class="ZoomOutCommand" Caption="Command_ZoomOut" Icon="ZoomOut" />
+    <fb:Command Class="ZoomToWindowCommand" Caption="Command_ZoomToWindow" Icon="ZoomToWindow" />
+    <fb:Command Class="ActualSizeCommand" Caption="Command_ActualSize" Icon="ActualSize" />
+    <fb:Command Class="@ZoomCommand" Caption="Command_Zoom" Icon="Zoom"/>
+    <fb:Separator />
+    <fb:Command Class="GridCommand" Caption="Command_Grid" Icon="Grid" Checked="true" />
+    <fb:Command Class="RulersCommand" Caption="Command_Rulers" Icon="Rulers"  Checked="true" />
+    <fb:Command Class="SizeLocationLabelCommand" Caption="Command_SizeLocationLabel" Icon="SizeLocationLabel" Checked="true" />
+  </fb:Menu>
+  <!--fb:Menu Caption="Menu_Tools">
+  </fb:Menu-->
+  <fb:Menu Caption="Menu_Window">
+    <fb:Command Class="ResetWindowLocationsCommand" Caption="Command_ResetWindowLocations" />
+    <fb:Separator />
+    <fb:Command Class="PaletteWindowCommand" Caption="Command_PaletteWindow" Enabled="false" />
+    <fb:Command Class="PropertiesWindowCommand" Caption="Command_PropertiesWindow" Enabled="false" />
+  </fb:Menu>
+  <fb:Menu Caption="Menu_Settings">
+    <fb:Command Class="@LanguagesCommand" Caption="Command_Languages" />
+    <fb:Command Class="@UnitsOfMeasurementCommand" Caption="Command_UnitsOfMeasurement" />
+    <fb:Command Class="ShowSettingsCommand" Caption="Command_OtherSettings" />
+    <fb:Separator />
+    <fb:Menu Caption="Menu_ManageSettings">
+      <fb:Command Class="LoadSettingsCommand" Caption="Command_LoadSettings" />
+      <fb:Command Class="SaveSettingsCommand" Caption="Command_SaveSettings" />
+    </fb:Menu>
+  </fb:Menu>
+  <fb:Menu Caption="Menu_Help">
+    <!--fb:Command Class="HelpTopicsCommand" Caption="Command_HelpTopics" Icon="HelpTopics" Enabled="false" /-->
+    <fb:Command Class="AboutCommand" Caption="Command_About" Shortcut="F1" />
+  </fb:Menu>
+</fb:MainMenu>

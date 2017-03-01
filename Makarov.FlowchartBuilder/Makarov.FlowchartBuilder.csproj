@@ -1,0 +1,477 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{65DA593A-94D5-4DD2-819D-3D338F7B95EE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Makarov.FlowchartBuilder</RootNamespace>
+    <AssemblyName>Makarov.FlowchartBuilder</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <StartupObject>
+    </StartupObject>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ApplicationIcon>FlowchartBuilder.ico</ApplicationIcon>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>.\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <RunCodeAnalysis>false</RunCodeAnalysis>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>.\</OutputPath>
+    <DefineConstants>
+    </DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'FlowchartBuilder %28Release%29|AnyCPU' ">
+    <OutputPath>.\</OutputPath>
+    <Optimize>true</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'FlowchartBuilder %28Debug%29|AnyCPU' ">
+    <OutputPath>.\</OutputPath>
+    <Optimize>false</Optimize>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Bulldozer %28Debug%29|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Bulldozer %28Debug%29\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Bulldozer %28Release%29|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\Bulldozer %28Release%29\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <Optimize>true</Optimize>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisUseTypeNameInSuppression>true</CodeAnalysisUseTypeNameInSuppression>
+    <CodeAnalysisModuleSuppressionsFile>GlobalSuppressions.cs</CodeAnalysisModuleSuppressionsFile>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <ItemGroup>
+    <Compile Include="AbstractGlyphSnapshot.cs" />
+    <Compile Include="AppInstance.cs" />
+    <Compile Include="Commands\AboutCommand.cs" />
+    <Compile Include="Commands\ActualSizeCommand.cs" />
+    <Compile Include="Commands\AlignBottomCommand.cs" />
+    <Compile Include="Commands\AlignBottomSheetCommand.cs" />
+    <Compile Include="Commands\AlignCenterHorizontalSheetCommand.cs" />
+    <Compile Include="Commands\AlignCenterVerticalSheetCommand.cs" />
+    <Compile Include="Commands\AlignCenterHorizontalCommand.cs" />
+    <Compile Include="Commands\AlignLeftCommand.cs" />
+    <Compile Include="Commands\AlignLeftSheetCommand.cs" />
+    <Compile Include="Commands\AlignRightCommand.cs" />
+    <Compile Include="Commands\AlignRightSheetCommand.cs" />
+    <Compile Include="Commands\AlignTopCommand.cs" />
+    <Compile Include="Commands\AlignTopSheetCommand.cs" />
+    <Compile Include="Commands\AlignCenterVerticalCommand.cs" />
+    <Compile Include="Commands\CloseAllCommand.cs" />
+    <Compile Include="Commands\CloseCommand.cs" />
+    <Compile Include="Commands\Command.cs" />
+    <Compile Include="Commands\CommandedGlyphCommand.cs" />
+    <Compile Include="Commands\CommandWithSubcommands.cs" />
+    <Compile Include="Commands\GCCollectAllCommand.cs" />
+    <Compile Include="Commands\GCCollectCommand.cs" />
+    <Compile Include="Commands\LoadSettingsCommand.cs" />
+    <Compile Include="Commands\SaveSettingsCommand.cs" />
+    <Compile Include="Commands\ShowSettingsCommand.cs" />
+    <Compile Include="Commands\UnitsOfMeasurementCommand.cs" />
+    <Compile Include="Commands\LoadImageCommand.cs" />
+    <Compile Include="Commands\NoneCommand.cs" />
+    <Compile Include="Commands\CopyCommand.cs" />
+    <Compile Include="Commands\CutCommand.cs" />
+    <Compile Include="Commands\DeleteCommand.cs" />
+    <Compile Include="Commands\DeselectCommand.cs" />
+    <Compile Include="Commands\ExitCommand.cs" />
+    <Compile Include="Commands\ExportImageCommand.cs" />
+    <Compile Include="Commands\FixAllCommand.cs" />
+    <Compile Include="Commands\FixSelectedCommand.cs" />
+    <Compile Include="Commands\GridCommand.cs" />
+    <Compile Include="Commands\GroupCommand.cs" />
+    <Compile Include="Commands\HelpTopicsCommand.cs" />
+    <Compile Include="Commands\LanguagesCommand.cs" />
+    <Compile Include="Commands\NewCommand.cs" />
+    <Compile Include="Commands\OpenCommand.cs" />
+    <Compile Include="Commands\PageSetupCommand.cs" />
+    <Compile Include="Commands\PaletteWindowCommand.cs" />
+    <Compile Include="Commands\PasteCommand.cs" />
+    <Compile Include="Commands\PrintCommand.cs" />
+    <Compile Include="Commands\PropertiesWindowCommand.cs" />
+    <Compile Include="Commands\RedoCommand.cs" />
+    <Compile Include="Commands\ResetWindowLocationsCommand.cs" />
+    <Compile Include="Commands\RulersCommand.cs" />
+    <Compile Include="Commands\SaveAllCommand.cs" />
+    <Compile Include="Commands\SaveCommand.cs" />
+    <Compile Include="Commands\SelectAllCommand.cs" />
+    <Compile Include="Commands\SizeLocationLabelCommand.cs" />
+    <Compile Include="Commands\UndoCommand.cs" />
+    <Compile Include="Commands\UnfixAllCommand.cs" />
+    <Compile Include="Commands\UngroupCommand.cs" />
+    <Compile Include="Commands\ZoomCommand.cs" />
+    <Compile Include="Commands\ZoomInCommand.cs" />
+    <Compile Include="Commands\ZoomOutCommand.cs" />
+    <Compile Include="Commands\ZoomToWindowCommand.cs" />
+    <Compile Include="Core.cs" />
+    <Compile Include="Core_DrawAndUI.cs" />
+    <Compile Include="Core_Exceptions.cs" />
+    <Compile Include="Core_Managers.cs" />
+    <Compile Include="Core_PrivateMembers.cs" />
+    <Compile Include="Core_Properties.cs" />
+    <Compile Include="DocumentsManager.cs" />
+    <Compile Include="Document_Exceptions.cs" />
+    <Compile Include="Document_LoadAndSave.cs" />
+    <Compile Include="Extensions\BitmapExtensions.cs" />
+    <Compile Include="Forms\BasicForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\BasicForm.Designer.cs">
+      <DependentUpon>BasicForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\DockingForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\DockingForm.Designer.cs">
+      <DependentUpon>DockingForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SettingsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SettingsForm.Designer.cs">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\SheetsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\SheetsForm.Designer.cs">
+      <DependentUpon>SheetsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Document.cs" />
+    <Compile Include="Exceptions.cs" />
+    <Compile Include="Extensions\FloatExtensions.cs" />
+    <Compile Include="Extensions\Int32Extensions.cs" />
+    <Compile Include="Forms\AboutForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\AboutForm.Designer.cs">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\GlyphsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\GlyphsForm.Designer.cs">
+      <DependentUpon>GlyphsForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\PropertiesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PropertiesForm.Designer.cs">
+      <DependentUpon>PropertiesForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GlyphSnapshot.cs" />
+    <Compile Include="GlyphSnapshotsDiff.cs" />
+    <Compile Include="Glyphs\AbstractGlyph.cs" />
+    <Compile Include="Glyphs\AbstractGlyph_Draw.cs" />
+    <Compile Include="Glyphs\AbstractGlyph_Exceptions.cs" />
+    <Compile Include="Glyphs\AbstractGlyph_Properties.cs" />
+    <Compile Include="Glyphs\AbstractGlyph_Serialization.cs" />
+    <Compile Include="Glyphs\ContainerGlyph.cs" />
+    <Compile Include="Glyphs\LinkGlyph.cs" />
+    <Compile Include="Glyphs\PointLinkGlyph.cs" />
+    <Compile Include="Glyphs\BlockGlyph.cs" />
+    <Compile Include="History.cs" />
+    <Compile Include="HistoryEvent.cs" />
+    <Compile Include="HistoryEventChangeGlyph.cs" />
+    <Compile Include="HistoryEventCreateGlyph.cs" />
+    <Compile Include="HistoryEventDeleteGlyph.cs" />
+    <Compile Include="HistoryNode.cs" />
+    <Compile Include="ILocation.cs" />
+    <Compile Include="IPlugin.cs" />
+    <Compile Include="IScaledLocation.cs" />
+    <Compile Include="IScaledSize.cs" />
+    <Compile Include="ISize.cs" />
+    <Compile Include="LinkPoint.cs" />
+    <Compile Include="MenuLoader.cs" />
+    <Compile Include="ManipPoint.cs" />
+    <Compile Include="DontRedraw.cs" />
+    <Compile Include="PluginsManager.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="MoveDirection.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Settings.cs" />
+    <Compile Include="SettingsExport.cs" />
+    <Compile Include="Sheets\CustomSheet.cs" />
+    <Compile Include="Sheets\Iso\A4.cs" />
+    <Compile Include="Sheets\Iso\A3.cs" />
+    <Compile Include="Sheets\Iso\A5.cs" />
+    <Compile Include="Sheets\Iso\A.cs" />
+    <Compile Include="Sheets\Ansi\BaseAnsi.cs" />
+    <Compile Include="Sheets\Iso\B.cs" />
+    <Compile Include="Sheets\Iso\B3.cs" />
+    <Compile Include="Sheets\Iso\B4.cs" />
+    <Compile Include="Sheets\Iso\B5.cs" />
+    <Compile Include="Sheets\Iso\C.cs" />
+    <Compile Include="Sheets\Iso\C3.cs" />
+    <Compile Include="Sheets\Iso\C4.cs" />
+    <Compile Include="Sheets\Iso\C5.cs" />
+    <Compile Include="Sheets\Ansi\AnsiA.cs" />
+    <Compile Include="Sheets\Ansi\AnsiB.cs" />
+    <Compile Include="Sheets\Other\Compact.cs" />
+    <Compile Include="Sheets\Other\Quarto.cs" />
+    <Compile Include="Sheets\Other\Demy.cs" />
+    <Compile Include="Sheets\Other\Crown.cs" />
+    <Compile Include="Sheets\Other\Post.cs" />
+    <Compile Include="Sheets\Other\BaseOther.cs" />
+    <Compile Include="Sheets\FixedSheet.cs" />
+    <Compile Include="Sheets\InfiniteSheet.cs" />
+    <Compile Include="Sheets\Iso\BaseIso.cs" />
+    <Compile Include="Sheets\Sheet.cs" />
+    <Compile Include="Extensions\StringExtensions.cs" />
+    <Compile Include="Sheets\Sheet_Mouse.cs" />
+    <Compile Include="Sheets\Sheet_Properties.cs" />
+    <Compile Include="Sheets\Sheet_PublicMethods.cs" />
+    <Compile Include="Units.cs" />
+    <Compile Include="UnitsConverter.cs" />
+    <Compile Include="UnitsManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Data\BackwardCompatibility.xml" />
+    <Content Include="FlowchartBuilder.ico" />
+    <Content Include="FlowchartFile.ico" />
+    <Content Include="FlowchartSettings.ico" />
+    <Content Include="Graphics\Lock.png" />
+    <Content Include="Icons\English.bmp" />
+    <Content Include="Icons\Group.bmp" />
+    <Content Include="Icons\Russian.bmp" />
+    <Content Include="Icons\Ukrainian.bmp" />
+    <Content Include="Icons\Ungroup.bmp" />
+    <Content Include="Data\MainMenu.xml" />
+    <Content Include="Data\SecondaryMenu.xml" />
+    <Content Include="Data\Units.xml" />
+    <Content Include="Graphics\Image.png" />
+    <Content Include="Graphics\Pointer.png" />
+    <Content Include="Icons\ActualSize.bmp" />
+    <Content Include="Icons\AlignBottom.bmp" />
+    <Content Include="Icons\AlignBottomSheet.bmp" />
+    <Content Include="Icons\AlignCenterHorizontal.bmp" />
+    <Content Include="Icons\AlignCenterHorizontalSheet.bmp" />
+    <Content Include="Icons\AlignCenterVertical.bmp" />
+    <Content Include="Icons\AlignCenterVerticalSheet.bmp" />
+    <Content Include="Icons\AlignLeft.bmp" />
+    <Content Include="Icons\AlignLeftSheet.bmp" />
+    <Content Include="Icons\AlignRight.bmp" />
+    <Content Include="Icons\AlignRightSheet.bmp" />
+    <Content Include="Icons\AlignTop.bmp" />
+    <Content Include="Icons\AlignTopSheet.bmp" />
+    <Content Include="Icons\Copy.bmp" />
+    <Content Include="Icons\Cut.bmp" />
+    <Content Include="Icons\Delete.bmp" />
+    <Content Include="Icons\Deselect.bmp" />
+    <Content Include="Icons\Grid.bmp" />
+    <Content Include="Icons\HelpTopics.bmp" />
+    <Content Include="Icons\Open.bmp" />
+    <Content Include="Icons\PageSetup.bmp" />
+    <Content Include="Icons\Paste.bmp" />
+    <Content Include="Icons\Print.bmp" />
+    <Content Include="Icons\Redo.bmp" />
+    <Content Include="Icons\Rulers.bmp" />
+    <Content Include="Icons\Save.bmp" />
+    <Content Include="Icons\SaveAll.bmp" />
+    <Content Include="Icons\SelectAll.bmp" />
+    <Content Include="Icons\SizeLocationLabel.bmp" />
+    <Content Include="Icons\Undo.bmp" />
+    <Content Include="Icons\Zoom.bmp" />
+    <Content Include="Icons\ZoomIn.bmp" />
+    <Content Include="Icons\ZoomOut.bmp" />
+    <Content Include="Icons\ZoomToWindow.bmp" />
+    <Content Include="Translations\English.xml" />
+    <Content Include="Translations\Russian.xml" />
+    <Content Include="Translations\Ukrainian.xml">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Forms\AboutForm.resx">
+      <DependentUpon>AboutForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\BasicForm.resx">
+      <DependentUpon>BasicForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\DockingForm.resx">
+      <DependentUpon>DockingForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\GlyphsForm.resx">
+      <DependentUpon>GlyphsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SettingsForm.resx">
+      <DependentUpon>SettingsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\SheetsForm.resx">
+      <DependentUpon>SheetsForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PropertiesForm.resx">
+      <DependentUpon>PropertiesForm.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Data\BackwardCompatibility.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Data\SecondaryMenu.xsd" />
+    <None Include="Data\MainMenu.xsd" />
+    <None Include="Data\Units.xsd" />
+    <None Include="Glyphs\Glyphs.cd" />
+    <None Include="Translations\Translations.xsd" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="History\" />
+    <Folder Include="Plugins\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Makarov.FlowchartBuilder.API\Makarov.FlowchartBuilder.API.csproj">
+      <Project>{7FCF48E1-36C1-45A8-9DA6-2E754B996050}</Project>
+      <Name>Makarov.FlowchartBuilder.API</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Makarov.FlowchartBuilder.Box\Makarov.FlowchartBuilder.Box.csproj">
+      <Project>{FC223F20-BD9E-43BC-B893-4DB4936901E7}</Project>
+      <Name>Makarov.FlowchartBuilder.Box</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Makarov.Framework.Collections\Makarov.Framework.Collections.csproj">
+      <Project>{EC766392-0818-4EAB-8C32-124DD6117932}</Project>
+      <Name>Makarov.Framework.Collections</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Makarov.Framework.Components\Makarov.Framework.Components.csproj">
+      <Project>{25C9D046-7DD9-4996-8CCD-41BF7B08B0AD}</Project>
+      <Name>Makarov.Framework.Components</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Makarov.Framework.Core\Makarov.Framework.Core.csproj">
+      <Project>{BF0B57AE-9EAB-4206-BF30-12AB352C87B3}</Project>
+      <Name>Makarov.Framework.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Makarov.Framework.Graphics\Makarov.Framework.Graphics.csproj">
+      <Project>{753D2CE5-7041-49E1-9A94-907B27435EB6}</Project>
+      <Name>Makarov.Framework.Graphics</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Makarov.Framework.Instance\Makarov.Framework.Instance.csproj">
+      <Project>{89141861-AB09-48B2-B7F4-54E64BC74D57}</Project>
+      <Name>Makarov.Framework.Instance</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Makarov.Framework.Serialization\Makarov.Framework.Serialization.csproj">
+      <Project>{DD58B691-D561-4588-8D9F-9384845925D4}</Project>
+      <Name>Makarov.Framework.Serialization</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <PreBuildEvent>$(SolutionDir)\Makarov.Framework.VersionUpdater.exe</PreBuildEvent>
+  </PropertyGroup>
+</Project>

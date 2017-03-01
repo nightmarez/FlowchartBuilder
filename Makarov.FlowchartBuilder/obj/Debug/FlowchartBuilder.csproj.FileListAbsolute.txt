@@ -1,0 +1,17 @@
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe.config
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\Debug\Makarov.FlowchartBuilder.Forms.AboutForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\Debug\Makarov.FlowchartBuilder.Forms.DockingForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\Debug\Makarov.FlowchartBuilder.Forms.GlyphsForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\Debug\Makarov.FlowchartBuilder.Forms.MainForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\Debug\Makarov.FlowchartBuilder.Forms.SheetsForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\Debug\Makarov.FlowchartBuilder.Forms.PropertiesForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\Debug\FlowchartBuilder.csproj.GenerateResource.Cache
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\Debug\Makarov.FlowchartBuilder.exe
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\Debug\Makarov.FlowchartBuilder.pdb
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.pdb
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.pdb
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\Debug\Makarov.FlowchartBuilder.Forms.SettingsForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\Debug\Makarov.FlowchartBuilder.Forms.DocumentsForm.resources

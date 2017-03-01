@@ -1,0 +1,15 @@
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\Glyphs\Simple\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Plugins\Simple.dll
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Plugins\Simple.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\Glyphs\Simple\obj\Debug\Simple.dll
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\Glyphs\Simple\obj\Debug\Simple.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Plugins\Simple.dll
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Plugins\Simple.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\Glyphs\Simple\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\Glyphs\Simple\obj\Debug\Simple.dll
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\Glyphs\Simple\obj\Debug\Simple.pdb
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Plugins\Simple.dll
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Plugins\Simple.pdb
+C:\MakarovProject\Makarov\FlowchartBuilder\Glyphs\Simple\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov\FlowchartBuilder\Glyphs\Simple\obj\Debug\Simple.dll
+C:\MakarovProject\Makarov\FlowchartBuilder\Glyphs\Simple\obj\Debug\Simple.pdb

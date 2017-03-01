@@ -1,0 +1,15 @@
+C:\MakarovProject\Makarov.Game.Server\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.Game.Server\obj\Debug\Makarov.Game.Server.exe
+C:\MakarovProject\Makarov.Game.Server\obj\Debug\Makarov.Game.Server.pdb
+C:\MakarovProject\Makarov.Game.Server\Makarov.Game.Server.exe
+C:\MakarovProject\Makarov.Game.Server\Makarov.Game.Server.pdb
+C:\MakarovProject\Makarov.Game.Server\Makarov.Framework.Collections.dll
+C:\MakarovProject\Makarov.Game.Server\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov.Game.Server\Makarov.Framework.Instance.dll
+C:\MakarovProject\Makarov.Game.Server\Makarov.Framework.Math.dll
+C:\MakarovProject\Makarov.Game.Server\Makarov.Framework.Serialization.dll
+C:\MakarovProject\Makarov.Game.Server\Makarov.Framework.Collections.pdb
+C:\MakarovProject\Makarov.Game.Server\Makarov.Framework.Core.pdb
+C:\MakarovProject\Makarov.Game.Server\Makarov.Framework.Instance.pdb
+C:\MakarovProject\Makarov.Game.Server\Makarov.Framework.Math.pdb
+C:\MakarovProject\Makarov.Game.Server\Makarov.Framework.Serialization.pdb

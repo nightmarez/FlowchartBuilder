@@ -1,0 +1,14 @@
+C:\MakarovProject\Makarov\Framework\Graphics\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov\Framework\Graphics\bin\Debug\Makarov.Framework.Graphics.dll
+C:\MakarovProject\Makarov\Framework\Graphics\bin\Debug\Makarov.Framework.Graphics.pdb
+C:\MakarovProject\Makarov\Framework\Graphics\bin\Debug\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov\Framework\Graphics\bin\Debug\Makarov.Framework.Core.pdb
+C:\MakarovProject\Makarov\Framework\Graphics\obj\Debug\Makarov.Framework.Graphics.dll
+C:\MakarovProject\Makarov\Framework\Graphics\obj\Debug\Makarov.Framework.Graphics.pdb
+C:\MakarovProject\Makarov.Framework.Graphics\bin\Debug\Makarov.Framework.Graphics.dll
+C:\MakarovProject\Makarov.Framework.Graphics\bin\Debug\Makarov.Framework.Graphics.pdb
+C:\MakarovProject\Makarov.Framework.Graphics\bin\Debug\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov.Framework.Graphics\bin\Debug\Makarov.Framework.Core.pdb
+C:\MakarovProject\Makarov.Framework.Graphics\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.Framework.Graphics\obj\Debug\Makarov.Framework.Graphics.dll
+C:\MakarovProject\Makarov.Framework.Graphics\obj\Debug\Makarov.Framework.Graphics.pdb

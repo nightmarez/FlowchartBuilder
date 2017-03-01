@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<fb:Translation Language="English" xmlns:fb="http://flowchartbuilder.blogspot.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://flowchartbuilder.blogspot.com Translations.xsd">
+
+  <fb:Word Key="FlowchartBuilder_Caption">FlowchartBuilder</fb:Word>
+
+  <fb:Word Key="Menu_File">File</fb:Word>
+  <fb:Word Key="Command_New">New...</fb:Word>
+  <fb:Word Key="Command_Open">Open...</fb:Word>
+  <fb:Word Key="Command_ExportImage">Export Image...</fb:Word>
+  <fb:Word Key="Command_Save">Save</fb:Word>
+  <fb:Word Key="Command_SaveAll">Save All</fb:Word>
+  <fb:Word Key="Command_Close">Close</fb:Word>
+  <fb:Word Key="Command_CloseAll">Close All</fb:Word>
+  <fb:Word Key="Command_PageSetup">Page Setup</fb:Word>
+  <fb:Word Key="Command_Print">Print</fb:Word>
+  <fb:Word Key="Command_Exit">Exit</fb:Word>
+
+  <fb:Word Key="Menu_Debug">Debug</fb:Word>
+  <fb:Word Key="Command_ForceGarbageCollection">Force Garbage Collection</fb:Word>
+  <fb:Word Key="Command_ForceFullGarbageCollection">Force Full Garbage Collection</fb:Word>
+  
+  <fb:Word Key="Menu_Edit">Edit</fb:Word>
+  <fb:Word Key="Command_Undo">Undo</fb:Word>
+  <fb:Word Key="Command_Redo">Redo</fb:Word>
+  <fb:Word Key="Command_Cut">Cut</fb:Word>
+  <fb:Word Key="Command_Copy">Copy</fb:Word>
+  <fb:Word Key="Command_Paste">Paste</fb:Word>
+  <fb:Word Key="Command_Delete">Delete</fb:Word>
+  <fb:Word Key="Command_SelectAll">Select All</fb:Word>
+  <fb:Word Key="Command_Deselect">Deselect</fb:Word>
+  <fb:Word Key="Command_FixSelected">Lock Selected</fb:Word>
+  <fb:Word Key="Command_FixAll">Lock All</fb:Word>
+  <fb:Word Key="Command_UnfixAll">Unlock All</fb:Word>
+
+  <fb:Word Key="Command_Group">Group</fb:Word>
+  <fb:Word Key="Command_Ungroup">Ungroup</fb:Word>
+
+  <fb:Word Key="Menu_Align">Align</fb:Word>
+  <fb:Word Key="Command_AlignLeft">Align Left</fb:Word>
+  <fb:Word Key="Command_AlignRight">Align Right</fb:Word>
+  <fb:Word Key="Command_AlignCenterHorizontal">Align Center (Horizontal)</fb:Word>
+  <fb:Word Key="Command_AlignCenterVertical">Align Center (Vertical)</fb:Word>
+  <fb:Word Key="Command_AlignTop">Align Top</fb:Word>
+  <fb:Word Key="Command_AlignBottom">Align Bottom</fb:Word>
+
+  <fb:Word Key="Menu_AlignOnSheet">Align On Sheet</fb:Word>
+  <fb:Word Key="Command_AlignLeftSheet">Align Left on Sheet</fb:Word>
+  <fb:Word Key="Command_AlignRightSheet">Align Right on Sheet</fb:Word>
+  <fb:Word Key="Command_AlignCenterHorizontalSheet">Align Center (Horizontal) on Sheet</fb:Word>
+  <fb:Word Key="Command_AlignCenterVerticalSheet">Align Center (Vertical) on Sheet</fb:Word>
+  <fb:Word Key="Command_AlignTopSheet">Align Top on Sheet</fb:Word>
+  <fb:Word Key="Command_AlignBottomSheet">Align Bottom on Sheet</fb:Word>
+  
+  <fb:Word Key="Menu_View">View</fb:Word>
+  <fb:Word Key="Command_ZoomIn">Zoom In</fb:Word>
+  <fb:Word Key="Command_ZoomOut">Zoom Out</fb:Word>
+  <fb:Word Key="Command_ZoomToWindow">Zoom To Window</fb:Word>
+  <fb:Word Key="Command_ActualSize">Actual Size</fb:Word>
+  <fb:Word Key="Command_Zoom">Zoom</fb:Word>
+  <fb:Word Key="400%">400%</fb:Word>
+  <fb:Word Key="200%">200%</fb:Word>
+  <fb:Word Key="150%">150%</fb:Word>
+  <fb:Word Key="125%">125%</fb:Word>
+  <fb:Word Key="100%">100%</fb:Word>
+  <fb:Word Key="75%">75%</fb:Word>
+  <fb:Word Key="50%">50%</fb:Word>
+  <fb:Word Key="25%">25%</fb:Word>
+  <fb:Word Key="Command_Grid">Grid</fb:Word>
+  <fb:Word Key="Command_Rulers">Rulers</fb:Word>
+  <fb:Word Key="Command_SizeLocationLabel">Size and Location Label</fb:Word>
+  <fb:Word Key="Command_PaletteWindow">Glyphs</fb:Word>
+  <fb:Word Key="Command_PropertiesWindow">Properties</fb:Word>
+
+  <fb:Word Key="Menu_Tools">Tools</fb:Word>
+
+  <fb:Word Key="Menu_Window">Window</fb:Word>
+  <fb:Word Key="Command_ResetWindowLocations">Reset Window Locations</fb:Word>
+
+  <fb:Word Key="Menu_Settings">Settings</fb:Word>
+  <fb:Word Key="Command_Languages">Languages</fb:Word>
+  <fb:Word Key="Command_UnitsOfMeasurement">Units of Measurement</fb:Word>
+  <fb:Word Key="Command_OtherSettings">Other Settings...</fb:Word>
+  <fb:Word Key="Menu_ManageSettings">Manage Settings</fb:Word>
+  <fb:Word Key="Command_LoadSettings">Load Settings...</fb:Word>
+  <fb:Word Key="Command_SaveSettings">Save Settings...</fb:Word>
+
+  <fb:Word Key="Menu_Help">Help</fb:Word>
+  <fb:Word Key="Command_HelpTopics">Help Topics</fb:Word>
+  <fb:Word Key="Command_About">About</fb:Word>
+
+  <fb:Word Key="Wnd_About_Title">About Makarov Flowchart Builder</fb:Word>
+  <fb:Word Key="Wnd_About_VersionLabel">FlowchartBuilder v</fb:Word>
+  <fb:Word Key="Wnd_About_CopyrightLabel">Copyright © 2011 Makarov Michael. All Rights Reserved.</fb:Word>
+
+  <fb:Word Key="Wnd_Palette_Title">Glyphs</fb:Word>
+  <fb:Word Key="Wnd_Properties_Title">Properties</fb:Word>
+  <fb:Word Key="Wnd_OtherSettings">Settings</fb:Word>
+
+  <fb:Word Key="Tab_Common">Common</fb:Word>
+  <fb:Word Key="Cb_LimitedHistory">Limited history</fb:Word>
+  <fb:Word Key="Cb_CacheResources">Cache resources</fb:Word>
+  <fb:Word Key="Cb_CacheImages">Cache images</fb:Word>
+  <fb:Word Key="Cb_Antialiasing">Antialiasing</fb:Word>
+
+  <fb:Word Key="Centimeters">Centimeters</fb:Word>
+  <fb:Word Key="Foots">Foots</fb:Word>
+  <fb:Word Key="Inches">Inches</fb:Word>
+  <fb:Word Key="Millimeters">Millimeters</fb:Word>
+
+  <fb:Word Key="mm">mm</fb:Word>
+  <fb:Word Key="cm">cm</fb:Word>
+  <fb:Word Key="inch">inch</fb:Word>
+  <fb:Word Key="ft">ft</fb:Word>
+
+  <fb:Word Key="width">width</fb:Word>
+  <fb:Word Key="height">height</fb:Word>
+
+  <fb:Word Key="OK">OK</fb:Word>
+  <fb:Word Key="Cancel">Cancel</fb:Word>
+  <fb:Word Key="Close">Close</fb:Word>
+  <fb:Word Key="License_Text">Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under tha law.</fb:Word>
+
+  <fb:Word Key="Msg_Error">Error</fb:Word>
+  <fb:Word Key="Msg_Warning">Warning</fb:Word>
+  <fb:Word Key="Msg_Info">Information</fb:Word>
+  <fb:Word Key="Msg_InvalidImageExtension">Invalid image file extension.</fb:Word>
+  <fb:Word Key="Msg_FunctionDisabledInNonRegisteredProgram">This function disabled in non registered program.</fb:Word>
+  <fb:Word Key="Msg_Need_Restart_Application">Please, restart application.</fb:Word>
+
+  <fb:Word Key="UndefinedGlyphName">*undefined*</fb:Word>
+  <fb:Word Key="UndefinedGlyphFamily">Other</fb:Word>
+  <fb:Word Key="UndefinedSheetName">*undefined*</fb:Word>
+  <fb:Word Key="UndefinedSheetFamily">Other</fb:Word>
+
+  <fb:Word Key="English">English</fb:Word>
+  <fb:Word Key="Russian">Russian</fb:Word>
+  <fb:Word Key="Ukrainian">Ukrainian</fb:Word>
+</fb:Translation>

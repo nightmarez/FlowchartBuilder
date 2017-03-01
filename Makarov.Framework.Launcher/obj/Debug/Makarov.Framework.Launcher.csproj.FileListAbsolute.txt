@@ -1,0 +1,5 @@
+C:\MakarovProject\Makarov.Framework.Launcher\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.Framework.Launcher\obj\Debug\Makarov.Framework.Launcher.exe
+C:\MakarovProject\Makarov.Framework.Launcher\obj\Debug\Makarov.Framework.Launcher.pdb
+C:\MakarovProject\Makarov.Framework.Launcher\Makarov.Framework.Launcher.exe
+C:\MakarovProject\Makarov.Framework.Launcher\Makarov.Framework.Launcher.pdb

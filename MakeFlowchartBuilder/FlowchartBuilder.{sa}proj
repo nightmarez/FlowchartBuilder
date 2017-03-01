@@ -1,0 +1,405 @@
+<SmartAssemblyProject ProjectID="{7c746a56-b1ca-4d13-9b9e-5e4b944d270a}" Version="2.0">
+    <MainAssemblyFileName>.\FlowchartBuilder\Makarov.FlowchartBuilder.exe</MainAssemblyFileName>
+    <Configuration Name="Release">
+        <ApplicationName />
+        <Destination DestinationFileName=".\FlowchartBuilder\Obfuscated\Makarov.FlowchartBuilder.exe" />
+        <Assemblies>
+            <Assembly AssemblyName="Makarov.Framework.Core, Culture=neutral, PublicKeyToken=null">
+                <Merging Merge="0">
+                    <Pruning />
+                    <Obfuscation />
+                    <ControlFlow />
+                    <MemberRefsProxy />
+                    <ResourcesCompression />
+                </Merging>
+                <Embedding />
+            </Assembly>
+            <Assembly AssemblyName="Makarov.FlowchartBuilder, Culture=neutral, PublicKeyToken=null">
+                <Merging>
+                    <ResourcesCompression Compress="1" />
+                    <MemberRefsProxy Proxy="1" />
+                    <Pruning />
+                    <Obfuscation Obfuscate="0">
+                        <Exclusion>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AboutCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>ActualSizeCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AlignBottomCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AlignBottomSheetCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AlignCenterHorizontalCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AlignCenterHorizontalSheetCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AlignCenterVerticalCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AlignCenterVerticalSheetCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AlignLeftCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AlignLeftSheetCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AlignRightCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AlignRightSheetCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AlignTopCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>AlignTopSheetCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>CloseAllCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>CloseCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>CommandWithSubcommands</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>CopyCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>CutCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>DeleteCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>DeselectCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>ExitCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>ExportImageCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>FixAllCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>FixSelectedCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>GridCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>GroupCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>HelpTopicsCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>LanguagesCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>LoadImageCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>NewCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>NoneCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>OpenCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>PageSetupCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>PaletteWindowCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>PasteCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>PrintCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>PropertiesWindowCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>RedoCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>ResetWindowLocationsCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>RulersCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>SaveAllCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>SaveCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>SelectAllCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>SizeLocationLabelCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>UndoCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>UnfixAllCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>UngroupCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>ZoomCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>ZoomInCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>ZoomOutCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                            <Token Table="TypeDef">
+                                <Assembly>Makarov.FlowchartBuilder</Assembly>
+                                <Module>Makarov.FlowchartBuilder.exe</Module>
+                                <Name>ZoomToWindowCommand</Name>
+                                <ItemType>Class</ItemType>
+                                <Namespace>Makarov.FlowchartBuilder.Commands</Namespace>
+                            </Token>
+                        </Exclusion>
+                    </Obfuscation>
+                    <ControlFlow Obfuscate="1" ObfuscationLevel="3" />
+                    <ResourcesPruning />
+                </Merging>
+            </Assembly>
+        </Assemblies>
+        <Options>
+            <Obfuscation FieldsNameMangling="3" NameMangling="3" />
+            <ExceptionReporting ReportExceptions="0" />
+            <StrongNameSigning Sign="0" />
+            <OtherProtections SuppressIldasm="1" />
+            <StringsEncoding Compress="1" Encode="1" UseCache="1" UseImprovedEncoding="1" />
+            <OtherOptimizations />
+            <Debugging CreatePDB="0" />
+        </Options>
+    </Configuration>
+</SmartAssemblyProject>

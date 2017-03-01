@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Menu"
+    targetNamespace="http://flowchartbuilder.blogspot.com"
+    elementFormDefault="qualified"
+    xmlns="http://flowchartbuilder.blogspot.com"
+    xmlns:mstns="http://flowchartbuilder.blogspot.com"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="SecondaryMenu">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="Command" minOccurs="0" maxOccurs="1">
+            <xs:complexType>
+              <xs:attribute name="Class" type="xs:string" use="required" />
+              <xs:attribute name="ToolTip" type="xs:string" use="required" />
+              <xs:attribute name="Icon" type="xs:string" use="optional" />
+              <xs:attribute name="Enabled" type="xs:string" use="optional" />
+              <xs:attribute name="Checked" type="xs:string" use="optional" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="Separator" minOccurs="0" maxOccurs="1" />
+        </xs:choice>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

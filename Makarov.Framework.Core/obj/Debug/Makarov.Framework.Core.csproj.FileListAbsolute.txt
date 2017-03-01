@@ -1,0 +1,9 @@
+C:\MakarovProject\Makarov.Framework.Core\bin\Debug\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov.Framework.Core\bin\Debug\Makarov.Framework.Core.pdb
+C:\MakarovProject\Makarov.Framework.Core\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.Framework.Core\obj\Debug\Makarov.Framework.Core.CriticalErrorDialog.resources
+C:\MakarovProject\Makarov.Framework.Core\obj\Debug\Makarov.Framework.Core.Properties.Resources.resources
+C:\MakarovProject\Makarov.Framework.Core\obj\Debug\GenerateResource.read.1.tlog
+C:\MakarovProject\Makarov.Framework.Core\obj\Debug\GenerateResource.write.1.tlog
+C:\MakarovProject\Makarov.Framework.Core\obj\Debug\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov.Framework.Core\obj\Debug\Makarov.Framework.Core.pdb

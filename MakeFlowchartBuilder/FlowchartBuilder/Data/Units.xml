@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<fb:UnitsTypes xmlns:fb="http://flowchartbuilder.blogspot.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://flowchartbuilder.blogspot.com Units.xsd">
+  <fb:Units Name="Millimeters" ShortName="mm" InMM="1" BigStep="10" SmallStep="1"/>
+  <fb:Units Name="Centimeters" ShortName="cm" InMM="0.1" BigStep="5" SmallStep="1"/>
+  <fb:Units Name="Inches" ShortName="inch" InMM="0.03937" BigStep="1" SmallStep="1"/>
+  <fb:Units Name="Foots" ShortName="ft" InMM="0.00328" BigStep="10" SmallStep="1"/>
+</fb:UnitsTypes>

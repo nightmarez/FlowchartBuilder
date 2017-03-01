@@ -1,0 +1,5 @@
+C:\MakarovProject\Makarov.Framework.VersionUpdater\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.Framework.VersionUpdater\obj\x86\Debug\Makarov.Framework.VersionUpdater.exe
+C:\MakarovProject\Makarov.Framework.VersionUpdater\obj\x86\Debug\Makarov.Framework.VersionUpdater.pdb
+C:\MakarovProject\Makarov.Framework.VersionUpdater.exe
+C:\MakarovProject\Makarov.Framework.VersionUpdater.pdb

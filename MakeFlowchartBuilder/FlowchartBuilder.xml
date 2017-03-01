@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE dotfuscator SYSTEM "http://www.preemptive.com/dotfuscator/dtd/dotfuscator_v2.2.dtd">
+<dotfuscator version="2.2">
+  <!--This is application generated code. Do not edit manually.-->
+  <input>
+    <asmlist>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <file dir="C:\MakarovProject\Make\FlowchartBuilder" name="Makarov.FlowchartBuilder.exe" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="C:\MakarovProject\Make\FlowchartBuilder" name="Makarov.Framework.Components.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="C:\MakarovProject\Make\FlowchartBuilder" name="Makarov.Framework.Core.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="C:\MakarovProject\Make\FlowchartBuilder" name="Makarov.Framework.Graphics.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="C:\MakarovProject\Make\FlowchartBuilder" name="Makarov.Framework.Instance.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="C:\MakarovProject\Make\FlowchartBuilder" name="Makarov.Framework.Serialization.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="C:\MakarovProject\Make\FlowchartBuilder\Plugins" name="Makarov.FlowchartBuilder.Glyphs.Shapes.dll" />
+      </inputassembly>
+      <inputassembly>
+        <option>honoroas</option>
+        <option>stripoa</option>
+        <option>library</option>
+        <file dir="C:\MakarovProject\Make\FlowchartBuilder\Plugins" name="Makarov.FlowchartBuilder.Glyphs.Simple.dll" />
+      </inputassembly>
+    </asmlist>
+  </input>
+  <output>
+    <file dir="C:\MakarovProject\Make\FlowchartBuilder\_Dotfuscated" />
+  </output>
+  <renaming>
+    <option>explicitoverrides</option>
+    <excludelist>
+      <namespace name="Makarov.FlowchartBuilder.Commands" />
+      <type name="MakarovFramework.Cache`2&lt;T,O&gt;" />
+      <type name="MakarovFramework.IDict`1&lt;T&gt;" />
+      <type name="MakarovFramework.Loader/&lt;GetTypes&gt;d__0`1&lt;T&gt;" />
+      <type name="MakarovFramework.StringDictionary`1&lt;T&gt;" />
+      <type name="BasicPlugin.My.MyProject/ThreadSafeObjectProvider`1&lt;T&gt;" />
+      <type name="Common.My.MyProject/ThreadSafeObjectProvider`1&lt;T&gt;" />
+      <type name="Links.My.MyProject/ThreadSafeObjectProvider`1&lt;T&gt;" />
+      <type name="Simple.My.MyProject/ThreadSafeObjectProvider`1&lt;T&gt;" />
+      <type name="UML.My.MyProject/ThreadSafeObjectProvider`1&lt;T&gt;" />
+      <type name="Makarov.Framework.Core.Loader/&lt;GetTypes&gt;d__0`1&lt;T&gt;" />
+      <type name="Makarov.FlowchartBuilder.Glyphs.Common.My.MyProject/ThreadSafeObjectProvider`1&lt;T&gt;" />
+      <type name="Makarov.FlowchartBuilder.Glyphs.Graphs.My.MyProject/ThreadSafeObjectProvider`1&lt;T&gt;" />
+      <type name="Makarov.FlowchartBuilder.Glyphs.Links.My.MyProject/ThreadSafeObjectProvider`1&lt;T&gt;" />
+      <type name="Makarov.FlowchartBuilder.Glyphs.Shapes.My.MyProject/ThreadSafeObjectProvider`1&lt;T&gt;" />
+      <type name="Makarov.FlowchartBuilder.Glyphs.Simple.My.MyProject/ThreadSafeObjectProvider`1&lt;T&gt;" />
+      <type name="Makarov.FlowchartBuilder.Glyphs.Uml.My.MyProject/ThreadSafeObjectProvider`1&lt;T&gt;" />
+      <type name="Makarov.FlowchartBuilder.Plugins.BasicPlugin.My.MyProject/ThreadSafeObjectProvider`1&lt;T&gt;" />
+      <type name="Makarov.FlowchartBuilder.Forms.DocumentsForm" />
+      <type name="Makarov.FlowchartBuilder.Forms.GlyphsForm" />
+      <type name="Makarov.FlowchartBuilder.Forms.PropertiesForm" />
+      <type name="Makarov.FlowchartBuilder.Glyphs.BlockGlyph" />
+      <type name="Makarov.Framework.Core.Cache`2&lt;T,O&gt;" />
+      <type name="Makarov.Framework.Core.IDict`1&lt;T&gt;" />
+      <type name="Makarov.Framework.Core.StringDictionary`1&lt;T&gt;" />
+    </excludelist>
+    <mapping>
+      <mapoutput overwrite="false">
+        <file dir="${configdir}\Dotfuscated" name="Map.xml" />
+      </mapoutput>
+    </mapping>
+    <referencerulelist />
+  </renaming>
+  <smartobfuscation>
+    <smartobfuscationreport verbosity="all" overwrite="false" />
+  </smartobfuscation>
+</dotfuscator>

@@ -1,0 +1,1 @@
+"C:\Program Files\Mono-2.10\bin\mono.exe" "C:\MakarovProject\MakeFlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe"

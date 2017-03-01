@@ -1,0 +1,8 @@
+C:\MakarovProject\MakarovFramework\bin\Debug\MakarovFramework.dll
+C:\MakarovProject\MakarovFramework\bin\Debug\MakarovFramework.pdb
+C:\MakarovProject\MakarovFramework\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\MakarovFramework\obj\Debug\MakarovFramework.dll
+C:\MakarovProject\MakarovFramework\obj\Debug\MakarovFramework.pdb
+C:\MakarovProject\MakarovFramework\obj\Debug\MakarovFramework.CriticalErrorDialog.resources
+C:\MakarovProject\MakarovFramework\obj\Debug\MakarovFramework.Properties.Resources.resources
+C:\MakarovProject\MakarovFramework\obj\Debug\MakarovFramework.csproj.GenerateResource.Cache

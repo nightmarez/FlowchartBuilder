@@ -1,0 +1,5 @@
+C:\MakarovProject\Makarov.Framework.Graphics.OpenGL\bin\Debug\Makarov.Framework.Graphics.OpenGL.dll
+C:\MakarovProject\Makarov.Framework.Graphics.OpenGL\bin\Debug\Makarov.Framework.Graphics.OpenGL.pdb
+C:\MakarovProject\Makarov.Framework.Graphics.OpenGL\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.Framework.Graphics.OpenGL\obj\Debug\Makarov.Framework.Graphics.OpenGL.dll
+C:\MakarovProject\Makarov.Framework.Graphics.OpenGL\obj\Debug\Makarov.Framework.Graphics.OpenGL.pdb

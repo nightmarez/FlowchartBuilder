@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8AC3A206-EC4B-40EB-9398-19D8B6047F11}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Makarov.FlowchartBuilder.Glyphs.Simple</RootNamespace>
+    <AssemblyName>Makarov.FlowchartBuilder.Glyphs.Simple</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\Makarov.FlowchartBuilder\Plugins\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AbstractSimpleGlyph.cs" />
+    <Compile Include="ArrowGlyph.cs" />
+    <Compile Include="BrokenArrowGlyph.cs" />
+    <Compile Include="AbstractLinkGlyph.cs" />
+    <Compile Include="LinkGlyph.cs" />
+    <Compile Include="ImageGlyph.cs" />
+    <Compile Include="TextGlyph.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Makarov.FlowchartBuilder.API\Makarov.FlowchartBuilder.API.csproj">
+      <Project>{7FCF48E1-36C1-45A8-9DA6-2E754B996050}</Project>
+      <Name>Makarov.FlowchartBuilder.API</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Makarov.FlowchartBuilder\Makarov.FlowchartBuilder.csproj">
+      <Project>{65DA593A-94D5-4DD2-819D-3D338F7B95EE}</Project>
+      <Name>Makarov.FlowchartBuilder</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Makarov.Framework.Core\Makarov.Framework.Core.csproj">
+      <Project>{BF0B57AE-9EAB-4206-BF30-12AB352C87B3}</Project>
+      <Name>Makarov.Framework.Core</Name>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\Makarov.Framework.Graphics\Makarov.Framework.Graphics.csproj">
+      <Project>{753D2CE5-7041-49E1-9A94-907B27435EB6}</Project>
+      <Name>Makarov.Framework.Graphics</Name>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

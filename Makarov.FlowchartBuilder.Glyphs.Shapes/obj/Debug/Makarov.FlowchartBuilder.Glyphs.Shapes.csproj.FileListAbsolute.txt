@@ -1,0 +1,7 @@
+C:\MakarovProject\Makarov.FlowchartBuilder.Glyphs.Shapes\obj\Debug\ResolveAssemblyReference.cache
+C:\FlowchartBuilder\Plugins\Makarov.FlowchartBuilder.Glyphs.Shapes.dll
+C:\FlowchartBuilder\Plugins\Makarov.FlowchartBuilder.Glyphs.Shapes.pdb
+C:\MakarovProject\Makarov.FlowchartBuilder.Glyphs.Shapes\obj\Debug\Makarov.FlowchartBuilder.Glyphs.Shapes.dll
+C:\MakarovProject\Makarov.FlowchartBuilder.Glyphs.Shapes\obj\Debug\Makarov.FlowchartBuilder.Glyphs.Shapes.pdb
+C:\MakarovProject\Makarov.FlowchartBuilder\Plugins\Makarov.FlowchartBuilder.Glyphs.Shapes.dll
+C:\MakarovProject\Makarov.FlowchartBuilder\Plugins\Makarov.FlowchartBuilder.Glyphs.Shapes.pdb

@@ -1,0 +1,9 @@
+C:\MakarovProject\Makarov\Framework\Core\obj\Release\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov\Framework\Core\obj\Release\Makarov.Framework.Core.BasicForm.resources
+C:\MakarovProject\Makarov\Framework\Core\obj\Release\Makarov.Framework.Core.CriticalErrorDialog.resources
+C:\MakarovProject\Makarov\Framework\Core\obj\Release\Makarov.Framework.Core.Properties.Resources.resources
+C:\MakarovProject\Makarov\Framework\Core\obj\Release\Core.csproj.GenerateResource.Cache
+C:\MakarovProject\Makarov\Framework\Core\bin\Release\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov\Framework\Core\bin\Release\Makarov.Framework.Core.pdb
+C:\MakarovProject\Makarov\Framework\Core\obj\Release\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov\Framework\Core\obj\Release\Makarov.Framework.Core.pdb

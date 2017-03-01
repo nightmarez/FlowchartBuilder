@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Units"
+    targetNamespace="http://flowchartbuilder.blogspot.com"
+    elementFormDefault="qualified"
+    xmlns="http://flowchartbuilder.blogspot.com"
+    xmlns:mstns="http://flowchartbuilder.blogspot.com"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+  <xs:element name="UnitsTypes">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="Units" maxOccurs="unbounded">
+          <xs:complexType>
+            <xs:attribute name="Name" type="xs:string" use="required" />
+            <xs:attribute name="ShortName" type="xs:string" use="required" />
+            <xs:attribute name="InMM" type="xs:float" use="required" />
+            <xs:attribute name="BigStep" type="xs:int"  use="required" />
+            <xs:attribute name="SmallStep" type="xs:int" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

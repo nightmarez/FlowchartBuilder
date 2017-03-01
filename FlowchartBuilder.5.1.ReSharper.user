@@ -1,0 +1,735 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/d:Forms/f:MainForm.Designer.cs" caret="4819" fromTop="17" />
+      <File id="25C9D046-7DD9-4996-8CCD-41BF7B08B0AD/f:ActiveToolStripMenuItem.cs" caret="485" fromTop="13" />
+      <File id="25C9D046-7DD9-4996-8CCD-41BF7B08B0AD/f:ActiveToolStripButton.cs" caret="478" fromTop="13" />
+      <File id="25C9D046-7DD9-4996-8CCD-41BF7B08B0AD/f:IActiveControl.cs" caret="424" fromTop="14" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/d:Forms/f:SheetsForm.cs" caret="6529" fromTop="14" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Document_LoadAndSave.cs" caret="976" fromTop="19" />
+      <File id="25C9D046-7DD9-4996-8CCD-41BF7B08B0AD/f:Tab.cs" caret="4406" fromTop="29" />
+      <File id="25C9D046-7DD9-4996-8CCD-41BF7B08B0AD/f:TabsPanel.cs" caret="2164" fromTop="17" />
+      <File id="89141861-AB09-48B2-B7F4-54E64BC74D57/f:IInstance.cs" caret="635" fromTop="19" />
+      <File id="89141861-AB09-48B2-B7F4-54E64BC74D57/f:InstanceHelper.cs" caret="0" fromTop="0" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Document.cs" caret="1455" fromTop="11" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Singleton.cs" caret="680" fromTop="25" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:AppInstance.cs" caret="2298" fromTop="60" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Program.cs" caret="457" fromTop="0" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/d:Sheets/d:Iso/f:A3.cs" caret="475" fromTop="15" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/d:Commands/f:NewCommand.cs" caret="329" fromTop="8" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Settings.cs" caret="1039" fromTop="25" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/d:Forms/f:MainForm.cs" caret="5875" fromTop="20" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Translator.cs" caret="8104" fromTop="20" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/d:SettingStorages/f:FakeStorage.cs" caret="484" fromTop="13" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/d:SettingStorages/f:XmlStorage.cs" caret="450" fromTop="0" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/d:SettingStorages/f:RegistryStorage.cs" caret="311" fromTop="7" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:IDict.cs" caret="597" fromTop="15" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:StringDictionary.cs" caret="649" fromTop="14" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:DisposableStringDictionary.cs" caret="791" fromTop="24" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Core.cs" caret="3036" fromTop="21" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Core_Properties.cs" caret="4983" fromTop="10" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Core_PrivateMembers.cs" caret="1538" fromTop="18" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Settings.cs" caret="15825" fromTop="2" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="1979" fromTop="22" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Core.cs" caret="3188" fromTop="28" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Core_PrivateMembers.cs" caret="273" fromTop="6" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Core_PrivateMembers.cs" caret="501" fromTop="16" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="580" fromTop="6" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="674" fromTop="16" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="839" fromTop="24" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="1371" fromTop="26" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="1563" fromTop="24" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="1803" fromTop="19" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="2211" fromTop="21" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="2391" fromTop="27" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="3063" fromTop="14" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Core_PrivateMembers.cs" caret="1060" fromTop="17" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Core_PrivateMembers.cs" caret="1358" fromTop="12" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Core_PrivateMembers.cs" caret="1538" fromTop="18" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Core_Properties.cs" caret="4812" fromTop="19" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Core_Properties.cs" caret="4623" fromTop="16" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Core_Properties.cs" caret="4983" fromTop="10" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="3254" fromTop="17" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="3433" fromTop="22" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Cache.cs" caret="1915" fromTop="20" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Settings.cs" caret="11494" fromTop="14" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Settings.cs" caret="11988" fromTop="25" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Settings.cs" caret="12482" fromTop="24" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Settings.cs" caret="13149" fromTop="19" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Settings.cs" caret="13623" fromTop="18" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Settings.cs" caret="14095" fromTop="23" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Settings.cs" caret="14701" fromTop="18" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Settings.cs" caret="15314" fromTop="23" />
+      <File id="65DA593A-94D5-4DD2-819D-3D338F7B95EE/f:Settings.cs" caret="15825" fromTop="23" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="override" priority="3" />
+      <Item value="return" priority="38" />
+      <Item value="bmp" priority="0" />
+      <Item value="gfx" priority="21" />
+      <Item value="Brushes`0" priority="3" />
+      <Item value="ThumbnailWidth" priority="0" />
+      <Item value="ThumbnailHeight" priority="1" />
+      <Item value="const" priority="11" />
+      <Item value="int" priority="79" />
+      <Item value="Settings`0" priority="8" />
+      <Item value="ushort" priority="0" />
+      <Item value="using" priority="15" />
+      <Item value="Brush`0" priority="2" />
+      <Item value="new" priority="57" />
+      <Item value="SolidBrush`0" priority="0" />
+      <Item value="Color`0" priority="1" />
+      <Item value="dx" priority="0" />
+      <Item value="offset" priority="14" />
+      <Item value="dy" priority="0" />
+      <Item value="outerHeight" priority="1" />
+      <Item value="for" priority="6" />
+      <Item value="i" priority="25" />
+      <Item value="if" priority="48" />
+      <Item value="innerOffset" priority="1" />
+      <Item value="verticalCount" priority="0" />
+      <Item value="var" priority="22" />
+      <Item value="Rectangle`0" priority="0" />
+      <Item value="innerHeight" priority="0" />
+      <Item value="gradientBrush" priority="0" />
+      <Item value="rect" priority="0" />
+      <Item value="Pen`0" priority="2" />
+      <Item value="Pen" priority="0" />
+      <Item value="Dash" priority="0" />
+      <Item value="Graphics" priority="0" />
+      <Item value="Drawing" priority="0" />
+      <Item value="Singleton" priority="0" />
+      <Item value="unchecked" priority="1" />
+      <Item value="Core`0" priority="26" />
+      <Item value="Core" priority="5" />
+      <Item value="InvalidValueException`0" priority="0" />
+      <Item value="FlowchartBuilder" priority="1" />
+      <Item value="Forms" priority="1" />
+      <Item value="IDisposable`0" priority="3" />
+      <Item value="public" priority="70" />
+      <Item value="void" priority="10" />
+      <Item value="_gmImages" priority="1" />
+      <Item value="null" priority="16" />
+      <Item value="_gmIcons" priority="0" />
+      <Item value="string" priority="62" />
+      <Item value="foreach" priority="12" />
+      <Item value="in" priority="13" />
+      <Item value="args" priority="0" />
+      <Item value="Document`0" priority="1" />
+      <Item value="throw" priority="11" />
+      <Item value="NotImplementedException" priority="4" />
+      <Item value="namespace" priority="2" />
+      <Item value="Makarov.Framework.Core" priority="0" />
+      <Item value="sealed" priority="10" />
+      <Item value="class" priority="13" />
+      <Item value="abstract" priority="0" />
+      <Item value="MakarovFrameworkException`0" priority="1" />
+      <Item value="base" priority="5" />
+      <Item value="message" priority="1" />
+      <Item value="protected" priority="2" />
+      <Item value="bool" priority="12" />
+      <Item value="false" priority="4" />
+      <Item value="WindowsManagerAlreadyDisposedException" priority="0" />
+      <Item value="_disposed" priority="0" />
+      <Item value="true" priority="2" />
+      <Item value="private" priority="17" />
+      <Item value="Type`0" priority="4" />
+      <Item value="List" priority="2" />
+      <Item value="WindowsManager`0" priority="2" />
+      <Item value="AssemblyLoadEventArgs`0" priority="0" />
+      <Item value="assembly" priority="1" />
+      <Item value="type" priority="5" />
+      <Item value="typeof" priority="3" />
+      <Item value="List&lt;Type&gt;" priority="0" />
+      <Item value="_windows" priority="5" />
+      <Item value="List&lt;Form&gt;" priority="0" />
+      <Item value="_formTypes" priority="4" />
+      <Item value="Form`0" priority="2" />
+      <Item value="wnd" priority="0" />
+      <Item value="IEnumerable" priority="4" />
+      <Item value="where" priority="3" />
+      <Item value="form" priority="2" />
+      <Item value="is" priority="2" />
+      <Item value="Activator`0" priority="0" />
+      <Item value="frm" priority="0" />
+      <Item value="WindowTypeNotFoundException" priority="0" />
+      <Item value="Managers" priority="0" />
+      <Item value="_wm" priority="4" />
+      <Item value="WindowsManager" priority="0" />
+      <Item value="Assembly`0" priority="0" />
+      <Item value="FlowchartBuilderException" priority="0" />
+      <Item value="Windows" priority="1" />
+      <Item value="Task`0" priority="2" />
+      <Item value="this" priority="8" />
+      <Item value="Bitmap`0" priority="0" />
+      <Item value="lockImg" priority="1" />
+      <Item value="XInMM" priority="0" />
+      <Item value="X" priority="0" />
+      <Item value="Width" priority="0" />
+      <Item value="Y" priority="0" />
+      <Item value="Height" priority="8" />
+      <Item value="BlockGlyph`0" priority="0" />
+      <Item value="InstalledFontCollection`0" priority="0" />
+      <Item value="cbMultithreading" priority="0" />
+      <Item value="translator" priority="0" />
+      <Item value="Settings" priority="6" />
+      <Item value="static" priority="6" />
+      <Item value="Application`0" priority="0" />
+      <Item value="UnitsManager`0" priority="1" />
+      <Item value="_unitsManager" priority="1" />
+      <Item value="UnitsManager" priority="0" />
+      <Item value="node" priority="5" />
+      <Item value="shortcut" priority="0" />
+      <Item value="item" priority="0" />
+      <Item value="KeyCode" priority="0" />
+      <Item value="parts" priority="0" />
+      <Item value="switch" priority="1" />
+      <Item value="case" priority="4" />
+      <Item value="break" priority="5" />
+      <Item value="default" priority="1" />
+      <Item value="Keys`0" priority="4" />
+      <Item value="FlowchartBuilderException`0" priority="0" />
+      <Item value="keys" priority="0" />
+      <Item value="Makarov" priority="1" />
+      <Item value="Glyphs.Simple" priority="0" />
+      <Item value="AbstractSimpleGlyph`0" priority="0" />
+      <Item value="GlyphOrder" priority="0" />
+      <Item value="groups" priority="0" />
+      <Item value="System" priority="4" />
+      <Item value="Linq" priority="2" />
+      <Item value="KeyValuePair&lt;string,KeyValuePair&lt;List&lt;Type&gt;,List&lt;Type&gt;&gt;&gt;" priority="0" />
+      <Item value="GlyphAttribute`0" priority="1" />
+      <Item value="readonly" priority="1" />
+      <Item value="VisibleGlyphAttribute`0" priority="0" />
+      <Item value="Length" priority="5" />
+      <Item value="yield return" priority="0" />
+      <Item value="VisibleGlyph" priority="0" />
+      <Item value="_order" priority="1" />
+      <Item value="order" priority="0" />
+      <Item value="InvalidContextException`0" priority="1" />
+      <Item value="while" priority="0" />
+      <Item value="partial" priority="0" />
+      <Item value="xmls" priority="1" />
+      <Item value="xml" priority="1" />
+      <Item value="from" priority="1" />
+      <Item value="Directory`0" priority="0" />
+      <Item value="file" priority="1" />
+      <Item value="let" priority="0" />
+      <Item value="Path`0" priority="0" />
+      <Item value="ext" priority="1" />
+      <Item value="select" priority="0" />
+      <Item value="rad" priority="0" />
+      <Item value="PointF`0" priority="1" />
+      <Item value="startPoint" priority="1" />
+      <Item value="ManipPoint`0" priority="0" />
+      <Item value="PointF" priority="0" />
+      <Item value="RotationPointSize" priority="0" />
+      <Item value="documentsTabsBar" priority="1" />
+      <Item value="_tabs" priority="4" />
+      <Item value="SystemColors`0" priority="4" />
+      <Item value="e" priority="10" />
+      <Item value="List&lt;string&gt;" priority="0" />
+      <Item value="Pens`0" priority="0" />
+      <Item value="TabHeight" priority="0" />
+      <Item value="borderPen" priority="0" />
+      <Item value="Point" priority="7" />
+      <Item value="path" priority="0" />
+      <Item value="LinearGradientBrush`0" priority="0" />
+      <Item value="GraphicsPath`0" priority="3" />
+      <Item value="Cursor" priority="1" />
+      <Item value="SelectedIndex" priority="0" />
+      <Item value="Invalidate`0" priority="0" />
+      <Item value="KeyValuePair" priority="4" />
+      <Item value="KeyValuePair&lt;string,GraphicsPath&gt;" priority="0" />
+      <Item value="docCount" priority="0" />
+      <Item value="Fonts`0" priority="1" />
+      <Item value="kvp" priority="4" />
+      <Item value="font" priority="3" />
+      <Item value="x" priority="0" />
+      <Item value="brush" priority="0" />
+      <Item value="SystemBrushes`0" priority="0" />
+      <Item value="size" priority="1" />
+      <Item value="Range`0" priority="1" />
+      <Item value="_rnd" priority="0" />
+      <Item value="range" priority="1" />
+      <Item value="MaxValue" priority="1" />
+      <Item value="MinValue" priority="1" />
+      <Item value="IEnumerator" priority="1" />
+      <Item value="Action" priority="0" />
+      <Item value="action" priority="1" />
+      <Item value="mx" priority="0" />
+      <Item value="Forced" priority="0" />
+      <Item value="GC`0" priority="0" />
+      <Item value="Lazy&lt;GraphicsManager&gt;" priority="0" />
+      <Item value="event" priority="0" />
+      <Item value="_selectedIndex" priority="7" />
+      <Item value="value" priority="11" />
+      <Item value="EventArgs" priority="0" />
+      <Item value="DocumentsTabs" priority="0" />
+      <Item value="idx" priority="5" />
+      <Item value="MessageBox`0" priority="0" />
+      <Item value="interface" priority="0" />
+      <Item value="_tabWidth" priority="1" />
+      <Item value="TabsPanelException" priority="1" />
+      <Item value="_tabHeight" priority="1" />
+      <Item value="_currDocIndex" priority="2" />
+      <Item value="IsDocumentsExists" priority="0" />
+      <Item value="CurrentDocumentNotExistsException" priority="0" />
+      <Item value="_documents" priority="0" />
+      <Item value="Redraw`0" priority="0" />
+      <Item value="KeyValuePair&lt;string,int&gt;" priority="0" />
+      <Item value="Id" priority="0" />
+      <Item value="id" priority="0" />
+      <Item value="Caption" priority="3" />
+      <Item value="caption" priority="0" />
+      <Item value="Tab`0" priority="1" />
+      <Item value="_documentsManager" priority="0" />
+      <Item value="Makarov.Framework" priority="0" />
+      <Item value="Components" priority="0" />
+      <Item value="internal" priority="0" />
+      <Item value="Math" priority="0" />
+      <Item value="Math`0" priority="1" />
+      <Item value="CreateGraphics`0" priority="0" />
+      <Item value="Font`0" priority="4" />
+      <Item value="Font" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="fileName" priority="0" />
+      <Item value="Graphics`0" priority="6" />
+      <Item value="Size`0" priority="0" />
+      <Item value="Size" priority="0" />
+      <Item value="RequiredWidth`0" priority="0" />
+      <Item value="minWidth" priority="3" />
+      <Item value="width" priority="5" />
+      <Item value="maxWidth" priority="2" />
+      <Item value="Point`0" priority="6" />
+      <Item value="height" priority="1" />
+      <Item value="tab" priority="0" />
+      <Item value="offsetX" priority="1" />
+      <Item value="offsetY" priority="1" />
+      <Item value="CreatePath`0" priority="0" />
+      <Item value="maxHeight" priority="1" />
+      <Item value="minHeight" priority="0" />
+      <Item value="SizeF`0" priority="0" />
+      <Item value="textSize" priority="0" />
+      <Item value="textOffsetX" priority="0" />
+      <Item value="textOffsetY" priority="0" />
+      <Item value="else" priority="1" />
+      <Item value="nguid" priority="0" />
+      <Item value="messages" priority="0" />
+      <Item value="catch" priority="2" />
+      <Item value="object" priority="0" />
+      <Item value="StringDictionary" priority="0" />
+      <Item value="StringDictionary&lt;string&gt;" priority="0" />
+      <Item value="_dict" priority="7" />
+      <Item value="IDict" priority="6" />
+      <Item value="_obj" priority="0" />
+      <Item value="Document" priority="2" />
+      <Item value="Framework" priority="2" />
+      <Item value="Extensions" priority="0" />
+      <Item value="LoadData`0" priority="0" />
+      <Item value="EntryPointNotFoundException`0" priority="0" />
+      <Item value="Environment`0" priority="0" />
+      <Item value="XmlNode`0" priority="3" />
+      <Item value="xmlDoc" priority="6" />
+      <Item value="mainNode" priority="3" />
+      <Item value="_settingsFileName" priority="0" />
+      <Item value="key" priority="0" />
+      <Item value="XmlDocument`0" priority="0" />
+      <Item value="XmlAttribute`0" priority="0" />
+      <Item value="attrib" priority="0" />
+      <Item value="continue" priority="1" />
+      <Item value="XmlAttributeCollection" priority="0" />
+      <Item value="FakeStorage`0" priority="0" />
+      <Item value="File`0" priority="0" />
+      <Item value="_registryAccess" priority="1" />
+      <Item value="_key" priority="0" />
+      <Item value="Cache" priority="0" />
+      <Item value="Cache&lt;string,IDict&lt;string&gt;&gt;" priority="0" />
+      <Item value="_brushes" priority="2" />
+      <Item value="_pens" priority="0" />
+      <Item value="T`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="FillRectangle`0" priority="2" />
+      <Item value="DrawRectangle`0" priority="1" />
+      <Item value="DrawLine`0" priority="6" />
+      <Item value="DrawImageUnscaled`0" priority="0" />
+      <Item value="DrawEllipse`0" priority="0" />
+      <Item value="Clear`0" priority="0" />
+      <Item value="DrawPath`0" priority="0" />
+      <Item value="FillPath`0" priority="0" />
+      <Item value="MeasureString`0" priority="3" />
+      <Item value="DrawString`0" priority="2" />
+      <Item value="Transform" priority="0" />
+      <Item value="TranslateTransform`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Brushes">
+      <Item value="Gray" priority="0" />
+      <Item value="LightGray" priority="0" />
+      <Item value="Black" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.FlowchartBuilder.Settings">
+      <Item value="Colors`0" priority="3" />
+      <Item value="Pens`0" priority="0" />
+      <Item value="Environment`0" priority="4" />
+      <Item value="Xml`0" priority="2" />
+      <Item value="Files`0" priority="1" />
+      <Item value="RegistryKeys`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.FlowchartBuilder.Settings+Colors">
+      <Item value="ThumbnailBorder" priority="0" />
+      <Item value="ThumbnailGradientStart" priority="0" />
+      <Item value="ThumbnailObjectGradientEnd" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Firebrick" priority="0" />
+      <Item value="FromArgb`0" priority="0" />
+      <Item value="Green" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Pen">
+      <Item value="DashStyle" priority="0" />
+      <Item value="DashPattern" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Nullable`1">
+      <Item value="Value" priority="14" />
+      <Item value="HasValue" priority="14" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Ticks" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.Framework.Core.RandomGenerator">
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.FlowchartBuilder.Core">
+      <Item value="Instance" priority="30" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.FlowchartBuilder.Core">
+      <Item value="PluginsLoader" priority="1" />
+      <Item value="Windows" priority="3" />
+      <Item value="Images" priority="0" />
+      <Item value="Units" priority="0" />
+      <Item value="IsDocumentsExists" priority="0" />
+      <Item value="CurrentDocument" priority="0" />
+      <Item value="MainWindow" priority="3" />
+      <Item value="Translators" priority="0" />
+      <Item value="SelectDocument`0" priority="0" />
+      <Item value="_currDocIndex" priority="0" />
+      <Item value="AddDocument`0" priority="2" />
+      <Item value="Redraw`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Core.Managers.GraphicsManager">
+      <Item value="Clear`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="10" />
+      <Item value="Format`0" priority="4" />
+      <Item value="IsNullOrWhiteSpace`0" priority="0" />
+      <Item value="IsNullOrEmpty`0" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.Assembly">
+      <Item value="GetTypes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="IsClass" priority="0" />
+      <Item value="IsSubclassOf`0" priority="0" />
+      <Item value="Name" priority="0" />
+      <Item value="GetCustomAttributes`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="3" />
+      <Item value="Clear`0" priority="1" />
+      <Item value="Remove`0" priority="0" />
+      <Item value="ToArray`0" priority="1" />
+      <Item value="Any`1" priority="0" />
+      <Item value="Select`2" priority="0" />
+      <Item value="Sort`0" priority="0" />
+      <Item value="OrderBy`2" priority="0" />
+      <Item value="Count" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Activator">
+      <Item value="CreateInstance`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.Assembly">
+      <Item value="GetExecutingAssembly`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Core.Managers.WindowsManager">
+      <Item value="Dispose`0" priority="0" />
+      <Item value="Windows" priority="4" />
+      <Item value="GetWindow`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.FlowchartBuilder.Forms.GlyphsForm">
+      <Item value="Validate`0" priority="0" />
+      <Item value="Visible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Core.Cache`2">
+      <Item value="Dispose`0" priority="1" />
+      <Item value="ExistsInSource`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Tasks.Task">
+      <Item value="WaitAll`0" priority="1" />
+      <Item value="Factory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.FlowchartBuilder.Glyphs.AbstractGlyph">
+      <Item value="Fixed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Bitmap">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.CheckBox">
+      <Item value="Text" priority="0" />
+      <Item value="Checked" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.FlowchartBuilder.Settings+Environment">
+      <Item value="Multithreading" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="StartupPath" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.FlowchartBuilder.Settings+Files">
+      <Item value="TranslationsSchema" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlNode">
+      <Item value="AppendChild`0" priority="1" />
+      <Item value="Attributes" priority="3" />
+      <Item value="Value" priority="0" />
+      <Item value="InnerText" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.FlowchartBuilder.Settings+Xml">
+      <Item value="Attributes`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.FlowchartBuilder.Settings+Xml+Attributes">
+      <Item value="Icon" priority="0" />
+      <Item value="Shortcut" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttribute">
+      <Item value="Value" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Components.ActiveToolStripMenuItem">
+      <Item value="ShortcutKeys" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Split`0" priority="0" />
+      <Item value="ToLower`0" priority="0" />
+      <Item value="ToLowerInvariant`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Keys">
+      <Item value="ControlKey" priority="0" />
+      <Item value="Alt" priority="0" />
+      <Item value="Shift" priority="0" />
+      <Item value="TryParse`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.KeyValuePair`2">
+      <Item value="Key" priority="6" />
+      <Item value="Value" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="First`1" priority="0" />
+      <Item value="OrderBy`2" priority="1" />
+      <Item value="ToArray`1" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.FlowchartBuilder.API.Attributes.VisibleGlyphAttribute">
+      <Item value="IsVisible" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.FlowchartBuilder.Forms.AboutForm">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.FlowchartBuilder.Forms.MainForm">
+      <Item value="Close`0" priority="0" />
+      <Item value="DocumentsTabs" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.FlowchartBuilder.Forms.SettingsForm">
+      <Item value="ShowDialog`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Core.Managers.TranslatorsManager">
+      <Item value="Languages" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Tasks.TaskFactory">
+      <Item value="StartNew`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Directory">
+      <Item value="GetFiles`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.Path">
+      <Item value="GetExtension`0" priority="0" />
+      <Item value="GetFileNameWithoutExtension`0" priority="0" />
+      <Item value="Combine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.PointF">
+      <Item value="X" priority="1" />
+      <Item value="Y" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Drawing2D.DashStyle">
+      <Item value="Dot" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Components.Tabs">
+      <Item value="Height" priority="0" />
+      <Item value="AddTab`0" priority="0" />
+      <Item value="Cursor" priority="0" />
+      <Item value="TabIndexChanged" priority="0" />
+      <Item value="SelectedTabChanged" priority="0" />
+      <Item value="SelectedIndex" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.SystemColors">
+      <Item value="ActiveBorder" priority="2" />
+      <Item value="Control" priority="0" />
+      <Item value="ButtonShadow" priority="0" />
+      <Item value="InactiveBorder" priority="0" />
+      <Item value="ControlDark" priority="0" />
+      <Item value="ControlLight" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PaintEventArgs">
+      <Item value="Graphics" priority="8" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Pens">
+      <Item value="Red" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Drawing2D.GraphicsPath">
+      <Item value="AddLine`0" priority="0" />
+      <Item value="StartFigure`0" priority="0" />
+      <Item value="CloseFigure`0" priority="0" />
+      <Item value="GetBounds`0" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.RectangleF">
+      <Item value="Contains`0" priority="0" />
+      <Item value="X" priority="0" />
+      <Item value="Y" priority="0" />
+      <Item value="Width" priority="1" />
+      <Item value="Height" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Cursor">
+      <Item value="Position" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.Framework.Core.Fonts">
+      <Item value="SafeCreateFont`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.SizeF">
+      <Item value="Height" priority="1" />
+      <Item value="Width" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.SystemBrushes">
+      <Item value="ControlText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Core.Range">
+      <Item value="MinValue" priority="0" />
+      <Item value="MaxValue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Drawing2D.Matrix">
+      <Item value="Clone`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.GC">
+      <Item value="Collect`0" priority="0" />
+      <Item value="CollectionCount`0" priority="0" />
+      <Item value="MaxGeneration" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Lazy`1">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Components.TabsPanel">
+      <Item value="SelectedIndex" priority="0" />
+      <Item value="_tabs" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Components.TabsPanel+Tab">
+      <Item value="Caption" priority="0" />
+      <Item value="Id" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Min`0" priority="0" />
+      <Item value="Ceiling`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Components.Tab">
+      <Item value="RequiredWidth`0" priority="0" />
+      <Item value="CreatePath`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.FlowchartBuilder.Document">
+      <Item value="Load`0" priority="0" />
+      <Item value="Name" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Instance.IInstance">
+      <Item value="Message`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Core.StringDictionary`1">
+      <Item value="ContainsKey`0" priority="2" />
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.Framework.Core.Settings">
+      <Item value="Xml`0" priority="0" />
+      <Item value="Environment`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.Framework.Core.Settings+Environment">
+      <Item value="IsMono" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment">
+      <Item value="GetFolderPath`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Environment+SpecialFolder">
+      <Item value="ApplicationData" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlDocument">
+      <Item value="Load`0" priority="0" />
+      <Item value="DocumentElement" priority="0" />
+      <Item value="CreateElement`0" priority="1" />
+      <Item value="AppendChild`0" priority="0" />
+      <Item value="Save`0" priority="0" />
+      <Item value="CreateAttribute`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Xml.XmlAttributeCollection">
+      <Item value="Append`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="Exists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.FlowchartBuilder.Settings+RegistryKeys">
+      <Item value="ProgramSettingsKey" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:T">
+      <Item value="Dispose`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Core.DisposableStringDictionary`1">
+      <Item value="Clear`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Core.Cache`1">
+      <Item value="_dict" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

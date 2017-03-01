@@ -1,0 +1,151 @@
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe.config
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.AboutForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DockingForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DocumentsForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.GlyphsForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.MainForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SettingsForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SheetsForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.PropertiesForm.resources
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.exe
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.pdb
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.pdb
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe.config
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\ResolveAssemblyReference.cache
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.AboutForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DockingForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DocumentsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.GlyphsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.MainForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SettingsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SheetsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.PropertiesForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.read.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.write.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.dll
+C:\Users\NightmareZ\Desktop\MakarovProject_7.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe.config
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\ResolveAssemblyReference.cache
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.AboutForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DockingForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DocumentsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.GlyphsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.MainForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SettingsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SheetsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.PropertiesForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.read.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.write.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.dll
+C:\Users\NightmareZ\Desktop\MakarovProject_10.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_17.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe.config
+C:\Users\NightmareZ\Desktop\MakarovProject_17.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_17.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe.config
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\ResolveAssemblyReference.cache
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.AboutForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DockingForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DocumentsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.GlyphsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.MainForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SettingsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SheetsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.PropertiesForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.read.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.write.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.dll
+C:\Users\NightmareZ\Desktop\MakarovProject_20.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe.config
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\ResolveAssemblyReference.cache
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.AboutForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DockingForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DocumentsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.GlyphsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.MainForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SettingsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SheetsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.PropertiesForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.read.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.write.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.dll
+C:\Users\NightmareZ\Desktop\MakarovProject_21.V.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe.config
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\ResolveAssemblyReference.cache
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.AboutForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DockingForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DocumentsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.GlyphsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.MainForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SettingsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SheetsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.PropertiesForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.read.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.write.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.dll
+C:\Users\NightmareZ\Desktop\MakarovProject_05.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe.config
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\ResolveAssemblyReference.cache
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.AboutForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DockingForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DocumentsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.GlyphsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.MainForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SettingsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SheetsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.PropertiesForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.read.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.write.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.dll
+C:\Users\NightmareZ\Desktop\MakarovProject_12.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe.config
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\ResolveAssemblyReference.cache
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.AboutForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DockingForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.DocumentsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.GlyphsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.MainForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SettingsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.SheetsForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\Makarov.FlowchartBuilder.Forms.PropertiesForm.resources
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.read.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.write.1.tlog
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.exe
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.FlowchartBuilder.pdb
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.dll
+C:\Users\NightmareZ\Desktop\MakarovProject_13.VI.2010\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Core.pdb
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.read.1.tlog
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource.read.1.tlog
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource-ResGen.write.1.tlog
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\obj\FlowchartBuilder (Debug)\GenerateResource.write.1.tlog
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Components.dll
+C:\MakarovProject\Makarov\FlowchartBuilder\FlowchartBuilder\Makarov.Framework.Components.pdb

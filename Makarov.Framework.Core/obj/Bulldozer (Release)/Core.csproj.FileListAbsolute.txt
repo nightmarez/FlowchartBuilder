@@ -1,0 +1,9 @@
+C:\MakarovProject\Makarov\Framework\Core\bin\Bulldozer (Release)\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov\Framework\Core\bin\Bulldozer (Release)\Makarov.Framework.Core.pdb
+C:\MakarovProject\Makarov\Framework\Core\obj\Bulldozer (Release)\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov\Framework\Core\obj\Bulldozer (Release)\Makarov.Framework.Core.BasicForm.resources
+C:\MakarovProject\Makarov\Framework\Core\obj\Bulldozer (Release)\Makarov.Framework.Core.CriticalErrorDialog.resources
+C:\MakarovProject\Makarov\Framework\Core\obj\Bulldozer (Release)\Makarov.Framework.Core.Properties.Resources.resources
+C:\MakarovProject\Makarov\Framework\Core\obj\Bulldozer (Release)\Core.csproj.GenerateResource.Cache
+C:\MakarovProject\Makarov\Framework\Core\obj\Bulldozer (Release)\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov\Framework\Core\obj\Bulldozer (Release)\Makarov.Framework.Core.pdb

@@ -1,0 +1,15 @@
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\bin\Debug\Makarov.FlowchartBuilder.Box.dll
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\bin\Debug\Makarov.FlowchartBuilder.Box.pdb
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\obj\Debug\Makarov.FlowchartBuilder.Box.dll
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\obj\Debug\Makarov.FlowchartBuilder.Box.pdb
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\bin\Debug\Makarov.FlowchartBuilder.API.dll
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\bin\Debug\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\bin\Debug\Makarov.Framework.Graphics.dll
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\bin\Debug\Makarov.Framework.Serialization.dll
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\bin\Debug\Makarov.FlowchartBuilder.API.pdb
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\bin\Debug\Makarov.Framework.Core.pdb
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\bin\Debug\Makarov.Framework.Graphics.pdb
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\bin\Debug\Makarov.Framework.Serialization.pdb
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\bin\Debug\Makarov.Framework.Collections.dll
+C:\MakarovProject\Makarov.FlowchartBuilder.Box\bin\Debug\Makarov.Framework.Collections.pdb

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{753D2CE5-7041-49E1-9A94-907B27435EB6}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Makarov.Framework.Graphics</RootNamespace>
+    <AssemblyName>Makarov.Framework.Graphics</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ColorF.cs" />
+    <Compile Include="CompiledVertexBuffer.cs" />
+    <Compile Include="Point4D.cs" />
+    <Compile Include="Point3D.cs" />
+    <Compile Include="ITexture.cs" />
+    <Compile Include="IFog.cs" />
+    <Compile Include="ILight.cs" />
+    <Compile Include="ILighting.cs" />
+    <Compile Include="Point2D.cs" />
+    <Compile Include="Primitives\Arrow.cs" />
+    <Compile Include="Primitives\BeveledRectangle.cs" />
+    <Compile Include="Primitives\Circle.cs" />
+    <Compile Include="Primitives\Cross.cs" />
+    <Compile Include="Primitives\Cross2.cs" />
+    <Compile Include="Primitives\DirectTriangle.cs" />
+    <Compile Include="Gdi.cs" />
+    <Compile Include="Primitives\GearArrow.cs" />
+    <Compile Include="Primitives\Hourglass.cs" />
+    <Compile Include="Primitives\Pie.cs" />
+    <Compile Include="Primitives\Primitive.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Primitives\Rectangle.cs" />
+    <Compile Include="Primitives\Rhombus.cs" />
+    <Compile Include="Primitives\RoundedRectangle.cs" />
+    <Compile Include="Primitives\Star.cs" />
+    <Compile Include="Primitives\Trapezoid.cs" />
+    <Compile Include="Primitives\Triangle.cs" />
+    <Compile Include="RawBitmap.cs" />
+    <Compile Include="Renderer.cs" />
+    <Compile Include="TempGfxObjects.cs" />
+    <Compile Include="Vertex.cs" />
+    <Compile Include="VertexBuffer.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Makarov.Framework.Core\Makarov.Framework.Core.csproj">
+      <Project>{BF0B57AE-9EAB-4206-BF30-12AB352C87B3}</Project>
+      <Name>Makarov.Framework.Core</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,21 @@
+<Modules>
+  <Module PersistentId="65DA593A-94D5-4DD2-819D-3D338F7B95EE" ModuleId="Makarov.FlowchartBuilder" />
+  <Module PersistentId="BF0B57AE-9EAB-4206-BF30-12AB352C87B3" ModuleId="Makarov.Framework.Core" />
+  <Module PersistentId="03B0F7CA-5F5F-45E2-BF02-A5ED5ED6BEDC" ModuleId="Makarov.FlowchartBuilder.Glyphs.Shapes" />
+  <Module PersistentId="753D2CE5-7041-49E1-9A94-907B27435EB6" ModuleId="Makarov.Framework.Graphics" />
+  <Module PersistentId="8AC3A206-EC4B-40EB-9398-19D8B6047F11" ModuleId="Makarov.FlowchartBuilder.Glyphs.Simple" />
+  <Module PersistentId="89141861-AB09-48B2-B7F4-54E64BC74D57" ModuleId="Makarov.Framework.Instance" />
+  <Module PersistentId="77DCBB42-8F08-4275-BFE2-0921CF49EF87" ModuleId="Makarov.Framework.VersionUpdater" />
+  <Module PersistentId="25C9D046-7DD9-4996-8CCD-41BF7B08B0AD" ModuleId="Makarov.Framework.Components" />
+  <Module PersistentId="DD58B691-D561-4588-8D9F-9384845925D4" ModuleId="Makarov.Framework.Serialization" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="System.Drawing" />
+  <Module PersistentId="2D7812CF-39F7-4D13-9DE3-CE32E4A2C70F" ModuleId="Makarov.FlowchartBuilder.Glyphs.Containers" />
+  <Module PersistentId="5D628DFB-CCC1-4DEC-9465-DAD5D64AD19E" ModuleId="Makarov.FlowchartBuilder.Glyphs.Flowchart" />
+  <Module PersistentId="7FCF48E1-36C1-45A8-9DA6-2E754B996050" ModuleId="Makarov.FlowchartBuilder.API" />
+  <Module PersistentId="FC223F20-BD9E-43BC-B893-4DB4936901E7" ModuleId="Makarov.FlowchartBuilder.Box_1" />
+  <Module PersistentId="683C3349-F8F4-49F4-9109-CD5D0D241312" ModuleId="Makarov.FlowchartBuilder.Sheets.Iso" />
+  <Module PersistentId="7DE301B9-E626-4851-BD64-527B9EC143BB" ModuleId="Makarov.FlowchartBuilder.Sheets.Ansi" />
+  <Module PersistentId="92DB27E7-B387-4222-9C37-9310E0E75749" ModuleId="Makarov.FlowchartBuilder.Sheets.Other" />
+  <Module PersistentId="EC766392-0818-4EAB-8C32-124DD6117932" ModuleId="Makarov.Framework.Collections" />
+  <Module PersistentId="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" ModuleId="System.Drawing_1" />
+</Modules>

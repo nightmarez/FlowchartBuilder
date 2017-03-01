@@ -1,0 +1,5 @@
+C:\MakarovProject\Makarov.FlowchartBuilder\Plugins\Makarov.FlowchartBuilder.Sheets.Ansi.dll
+C:\MakarovProject\Makarov.FlowchartBuilder\Plugins\Makarov.FlowchartBuilder.Sheets.Ansi.pdb
+C:\MakarovProject\Makarov.FlowchartBuilder.Sheets.Ansi\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.FlowchartBuilder.Sheets.Ansi\obj\Debug\Makarov.FlowchartBuilder.Sheets.Ansi.dll
+C:\MakarovProject\Makarov.FlowchartBuilder.Sheets.Ansi\obj\Debug\Makarov.FlowchartBuilder.Sheets.Ansi.pdb

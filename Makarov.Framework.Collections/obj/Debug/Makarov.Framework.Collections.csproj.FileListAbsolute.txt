@@ -1,0 +1,5 @@
+C:\MakarovProject\Makarov.Framework.Collections\bin\Debug\Makarov.Framework.Collections.dll
+C:\MakarovProject\Makarov.Framework.Collections\bin\Debug\Makarov.Framework.Collections.pdb
+C:\MakarovProject\Makarov.Framework.Collections\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.Framework.Collections\obj\Debug\Makarov.Framework.Collections.dll
+C:\MakarovProject\Makarov.Framework.Collections\obj\Debug\Makarov.Framework.Collections.pdb

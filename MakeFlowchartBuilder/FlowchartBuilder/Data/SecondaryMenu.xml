@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<fb:SecondaryMenu xmlns:fb="http://flowchartbuilder.blogspot.com"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://flowchartbuilder.blogspot.com SecondaryMenu.xsd">
+  <fb:Command Class="OpenCommand" ToolTip="Command_Open" Icon="Open" Enabled="false" />
+  <fb:Command Class="SaveCommand" ToolTip="Command_Save" Icon="Save" Enabled="false" />
+  <fb:Command Class="SaveAllCommand" ToolTip="Command_SaveAll" Icon="SaveAll" Enabled="false" />
+  <fb:Separator/>
+  <fb:Command Class="PageSetupCommand" ToolTip="Command_PageSetup" Icon="PageSetup" Enabled="false" />
+  <fb:Command Class="PrintCommand" ToolTip="Command_Print" Icon="Print" Enabled="false" />
+  <fb:Separator/>
+  <fb:Command Class="UndoCommand" ToolTip="Command_Undo" Icon="Undo" Enabled="false" />
+  <fb:Command Class="RedoCommand" ToolTip="Command_Redo" Icon="Redo" Enabled="false" />
+  <fb:Separator />
+  <fb:Command Class="CutCommand" ToolTip="Command_Cut" Icon="Cut" Enabled="false" />
+  <fb:Command Class="CopyCommand" ToolTip="Command_Copy" Icon="Copy" Enabled="false" />
+  <fb:Command Class="PasteCommand" ToolTip="Command_Paste" Icon="Paste" Enabled="false" />
+  <fb:Command Class="DeleteCommand" ToolTip="Command_Delete" Icon="Delete" Enabled="false" />
+  <fb:Separator />
+  <fb:Command Class="ZoomInCommand" ToolTip="Command_ZoomIn" Icon="ZoomIn" />
+  <fb:Command Class="ZoomOutCommand" ToolTip="Command_ZoomOut" Icon="ZoomOut" />
+  <fb:Command Class="ZoomToWindowCommand" ToolTip="Command_ZoomToWindow" Icon="ZoomToWindow" />
+  <fb:Command Class="ActualSizeCommand" ToolTip="Command_ActualSize" Icon="ActualSize" />
+  <fb:Separator />
+  <fb:Command Class="GridCommand" ToolTip="Command_Grid" Icon="Grid" Checked="true" />
+  <fb:Command Class="RulersCommand" ToolTip="Command_Rulers" Icon="Rulers" Checked="true" />
+  <fb:Command Class="SizeLocationLabelCommand" ToolTip="Command_SizeLocationLabel" Icon="SizeLocationLabel" Checked="true" />
+  <fb:Separator />
+  <fb:Command Class="GroupCommand" ToolTip="Command_Group" Enabled="false" Icon="Group" />
+  <fb:Command Class="UngroupCommand" ToolTip="Command_Ungroup" Enabled="false" Icon="Ungroup" />
+  <fb:Separator />
+  <fb:Command Class="AlignLeftCommand" ToolTip="Command_AlignLeft" Icon="AlignLeft" />
+  <fb:Command Class="AlignRightCommand" ToolTip="Command_AlignRight" Icon="AlignRight" />
+  <fb:Command Class="AlignCenterHorizontalCommand" ToolTip="Command_AlignCenterHorizontal" Icon="AlignCenterHorizontal" />
+  <fb:Command Class="AlignCenterVerticalCommand" ToolTip="Command_AlignCenterVertical" Icon="AlignCenterVertical" />
+  <fb:Command Class="AlignTopCommand" ToolTip="Command_AlignTop" Icon="AlignTop" />
+  <fb:Command Class="AlignBottomCommand" ToolTip="Command_AlignBottom" Icon="AlignBottom" />
+  <fb:Separator />
+  <fb:Command Class="AlignLeftSheetCommand" ToolTip="Command_AlignLeftSheet" Icon="AlignLeftSheet" />
+  <fb:Command Class="AlignRightSheetCommand" ToolTip="Command_AlignRightSheet" Icon="AlignRightSheet" />
+  <fb:Command Class="AlignCenterHorizontalSheetCommand" ToolTip="Command_AlignCenterHorizontalSheet" Icon="AlignCenterHorizontalSheet" />
+  <fb:Command Class="AlignCenterVerticalSheetCommand" ToolTip="Command_AlignCenterVerticalSheet" Icon="AlignCenterVerticalSheet" />
+  <fb:Command Class="AlignTopSheetCommand" ToolTip="Command_AlignTopSheet" Icon="AlignTopSheet" />
+  <fb:Command Class="AlignBottomSheetCommand" ToolTip="Command_AlignBottomSheet" Icon="AlignBottomSheet" />
+</fb:SecondaryMenu>

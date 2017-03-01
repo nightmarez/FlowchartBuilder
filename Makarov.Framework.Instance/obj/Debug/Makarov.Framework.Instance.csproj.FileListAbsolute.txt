@@ -1,0 +1,10 @@
+C:\MakarovProject\Makarov\Framework\Instance\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov\Framework\Instance\bin\Debug\Makarov.Framework.Instance.dll
+C:\MakarovProject\Makarov\Framework\Instance\bin\Debug\Makarov.Framework.Instance.pdb
+C:\MakarovProject\Makarov\Framework\Instance\obj\Debug\Makarov.Framework.Instance.dll
+C:\MakarovProject\Makarov\Framework\Instance\obj\Debug\Makarov.Framework.Instance.pdb
+C:\MakarovProject\Makarov.Framework.Instance\bin\Debug\Makarov.Framework.Instance.dll
+C:\MakarovProject\Makarov.Framework.Instance\bin\Debug\Makarov.Framework.Instance.pdb
+C:\MakarovProject\Makarov.Framework.Instance\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.Framework.Instance\obj\Debug\Makarov.Framework.Instance.dll
+C:\MakarovProject\Makarov.Framework.Instance\obj\Debug\Makarov.Framework.Instance.pdb

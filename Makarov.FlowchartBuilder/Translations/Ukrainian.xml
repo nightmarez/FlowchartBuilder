@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<fb:Translation Language="Ukrainian" xmlns:fb="http://flowchartbuilder.blogspot.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://flowchartbuilder.blogspot.com Translations.xsd">
+
+  <fb:Word Key="FlowchartBuilder_Caption">Редактор діаграм</fb:Word>
+
+  <fb:Word Key="Menu_File">Файл</fb:Word>
+  <fb:Word Key="Command_New">Новий...</fb:Word>
+  <fb:Word Key="Command_Open">Відчинити...</fb:Word>
+  <fb:Word Key="Command_ExportImage">Создати зображення...</fb:Word>
+  <fb:Word Key="Command_Save">Сохранити</fb:Word>
+  <fb:Word Key="Command_SaveAll">Сохранити усе</fb:Word>
+  <fb:Word Key="Command_Close">Зачінити</fb:Word>
+  <fb:Word Key="Command_CloseAll">Зачінити усе</fb:Word>
+  <fb:Word Key="Command_PageSetup">Налаштунки друку</fb:Word>
+  <fb:Word Key="Command_Print">Друк</fb:Word>
+  <fb:Word Key="Command_Exit">Вихід</fb:Word>
+
+  <fb:Word Key="Menu_Debug">Налагодження</fb:Word>
+  <fb:Word Key="Command_ForceGarbageCollection">Ініціювати збірку сміття</fb:Word>
+  <fb:Word Key="Command_ForceFullGarbageCollection">Ініціювати збірку сміття у всіх поколіннях</fb:Word>
+
+  <fb:Word Key="Menu_Edit">Редагувати</fb:Word>
+  <fb:Word Key="Command_Undo">Взад</fb:Word>
+  <fb:Word Key="Command_Redo">Вперед</fb:Word>
+  <fb:Word Key="Command_Cut">Вирізати</fb:Word>
+  <fb:Word Key="Command_Copy">Копіювати</fb:Word>
+  <fb:Word Key="Command_Paste">Вставити</fb:Word>
+  <fb:Word Key="Command_Delete">Видалити</fb:Word>
+  <fb:Word Key="Command_SelectAll">Виділити все</fb:Word>
+  <fb:Word Key="Command_Deselect">Відмінити виділення</fb:Word>
+  <fb:Word Key="Command_FixSelected">Закріпити виділене</fb:Word>
+  <fb:Word Key="Command_FixAll">Закріпити все</fb:Word>
+  <fb:Word Key="Command_UnfixAll">Відмините закріплення</fb:Word>
+
+  <fb:Word Key="Command_Group">Створити групу</fb:Word>
+  <fb:Word Key="Command_Ungroup">Розгрупувати</fb:Word>
+
+  <fb:Word Key="Menu_Align">Вирівняти</fb:Word>
+  <fb:Word Key="Command_AlignLeft">Вирівняти по лівому краю</fb:Word>
+  <fb:Word Key="Command_AlignRight">Вирівняти по правому краю</fb:Word>
+  <fb:Word Key="Command_AlignCenterHorizontal">Вирівняти по центру (горизонтально)</fb:Word>
+  <fb:Word Key="Command_AlignCenterVertical">Вирівняти по центру (вертикально)</fb:Word>
+  <fb:Word Key="Command_AlignTop">Вирівняти по верхньому краю</fb:Word>
+  <fb:Word Key="Command_AlignBottom">Вирівняти по нижньому краю</fb:Word>
+
+  <fb:Word Key="Menu_AlignOnSheet">Вирівняти по аркушу</fb:Word>
+  <fb:Word Key="Command_AlignLeftSheet">Вирівняти по лівому краю аркуша</fb:Word>
+  <fb:Word Key="Command_AlignRightSheet">Вирівняти по правому краю аркуша</fb:Word>
+  <fb:Word Key="Command_AlignCenterHorizontalSheet">Вирівняти по центру аркуша (горизонтально)</fb:Word>
+  <fb:Word Key="Command_AlignCenterVerticalSheet">Вирівняти по центру аркуша (вертикально)</fb:Word>
+  <fb:Word Key="Command_AlignTopSheet">Вирівняти по верхньому краю аркуша</fb:Word>
+  <fb:Word Key="Command_AlignBottomSheet">Вирівняти по нижньому краю аркуша</fb:Word>
+
+  <fb:Word Key="Menu_View">Вид</fb:Word>
+  <fb:Word Key="Command_ZoomIn">Збільшити</fb:Word>
+  <fb:Word Key="Command_ZoomOut">Зменьшити</fb:Word>
+  <fb:Word Key="Command_ZoomToWindow">Збільшити до размірів вікна</fb:Word>
+  <fb:Word Key="Command_ActualSize">Оптимальний розмір</fb:Word>
+  <fb:Word Key="Command_Zoom">Масштаб</fb:Word>
+  <fb:Word Key="400%">400%</fb:Word>
+  <fb:Word Key="200%">200%</fb:Word>
+  <fb:Word Key="150%">150%</fb:Word>
+  <fb:Word Key="125%">125%</fb:Word>
+  <fb:Word Key="100%">100%</fb:Word>
+  <fb:Word Key="75%">75%</fb:Word>
+  <fb:Word Key="50%">50%</fb:Word>
+  <fb:Word Key="25%">25%</fb:Word>
+  <fb:Word Key="Command_Grid">Сітка</fb:Word>
+  <fb:Word Key="Command_Rulers">Лінійки</fb:Word>
+  <fb:Word Key="Command_SizeLocationLabel">Відібражати розмір и координати</fb:Word>
+  <fb:Word Key="Command_PaletteWindow">Палітра</fb:Word>
+  <fb:Word Key="Command_PropertiesWindow">Властивості</fb:Word>
+
+  <fb:Word Key="Menu_Tools">Iнструменти</fb:Word>
+
+  <fb:Word Key="Menu_Window">Вікно</fb:Word>
+  <fb:Word Key="Command_ResetWindowLocations">Стандартне расположення вікон</fb:Word>
+
+  <fb:Word Key="Menu_Settings">Налаштування</fb:Word>
+  <fb:Word Key="Command_Languages">Мови</fb:Word>
+  <fb:Word Key="Command_UnitsOfMeasurement">Одиниці вимірювання</fb:Word>
+  <fb:Word Key="Command_OtherSettings">Iнші налаштунки...</fb:Word>
+
+  <fb:Word Key="Menu_Help">Допомога</fb:Word>
+  <fb:Word Key="Command_HelpTopics">Заголовки допомоги</fb:Word>
+  <fb:Word Key="Command_About">Про програму</fb:Word>
+
+  <fb:Word Key="Wnd_About_Title">Про Редактор Діаграм</fb:Word>
+  <fb:Word Key="Wnd_About_VersionLabel">Версія:</fb:Word>
+  <fb:Word Key="Wnd_About_CopyrightLabel">(c) 2011 Макаров Михайло.</fb:Word>
+
+  <fb:Word Key="Wnd_Palette_Title">Палітра</fb:Word>
+  <fb:Word Key="Wnd_Properties_Title">Властивості</fb:Word>
+  <fb:Word Key="Wnd_OtherSettings">Налаштунки</fb:Word>
+  <fb:Word Key="Menu_ManageSettings">Управління настройками</fb:Word>
+  <fb:Word Key="Command_LoadSettings">Заватажити настройки...</fb:Word>
+  <fb:Word Key="Command_SaveSettings">Сохранити настройки...</fb:Word>
+
+  <fb:Word Key="Tab_Common">Загальні</fb:Word>
+  <fb:Word Key="Cb_LimitedHistory">Обмеження історії</fb:Word>
+  <fb:Word Key="Cb_CacheResources">Кешувати ресурси</fb:Word>
+  <fb:Word Key="Cb_CacheImages">Кешувати зображення</fb:Word>
+  <fb:Word Key="Cb_Antialiasing">Згладжування</fb:Word>
+
+  <fb:Word Key="Centimeters">Сантиметри</fb:Word>
+  <fb:Word Key="Foots">Фути</fb:Word>
+  <fb:Word Key="Inches">Дюйми</fb:Word>
+  <fb:Word Key="Millimeters">Міліметри</fb:Word>
+
+  <fb:Word Key="mm">мм</fb:Word>
+  <fb:Word Key="cm">см</fb:Word>
+  <fb:Word Key="inch">дюйми</fb:Word>
+  <fb:Word Key="ft">фути</fb:Word>
+
+  <fb:Word Key="width">ширина</fb:Word>
+  <fb:Word Key="height">висота</fb:Word>
+
+  <fb:Word Key="OK">Примінити</fb:Word>
+  <fb:Word Key="Cancel">Відміна</fb:Word>
+  <fb:Word Key="Close">Зачінити</fb:Word>
+  <fb:Word Key="License_Text">Warning: This computer program is protected by copyright law and international treaties. Unauthorized reproduction or distribution of this program, or any portion of it, may result in severe civil and criminal penalties, and will be prosecuted to the maximum extent possible under tha law.</fb:Word>
+
+  <fb:Word Key="Msg_Error">Помилка</fb:Word>
+  <fb:Word Key="Msg_Warning">Увага</fb:Word>
+  <fb:Word Key="Msg_Info">Інформація</fb:Word>
+  <fb:Word Key="Msg_InvalidImageExtension">Некоріктне розширення графічного файла.</fb:Word>
+  <fb:Word Key="Msg_FunctionDisabledInNonRegisteredProgram">Ця функція недоступна в незарегістрованій версії програми.</fb:Word>
+  <fb:Word Key="Msg_Need_Restart_Application">Будьласка, перезавантажте програму.</fb:Word>
+
+  <fb:Word Key="UndefinedGlyphName">*безіменний*</fb:Word>
+  <fb:Word Key="UndefinedGlyphFamily">Інші</fb:Word>
+  <fb:Word Key="UndefinedSheetName">*безіменний*</fb:Word>
+  <fb:Word Key="UndefinedSheetFamily">Інші</fb:Word>
+
+  <fb:Word Key="English">Англійська</fb:Word>
+  <fb:Word Key="Russian">Російська</fb:Word>
+  <fb:Word Key="Ukrainian">Українська</fb:Word>
+</fb:Translation>

@@ -1,0 +1,303 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="B49FC517-3D70-4D86-8DDC-5F3E555FD820/f:Program.cs" caret="138" fromTop="5" />
+      <File id="DD58B691-D561-4588-8D9F-9384845925D4/f:BoolSerializer.cs" caret="0" fromTop="0" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:Exceptions.cs" caret="0" fromTop="0" />
+      <File id="BF0B57AE-9EAB-4206-BF30-12AB352C87B3/f:ThreadSafeConsole.cs" caret="0" fromTop="0" />
+      <File id="A2A1B396-B774-434D-A220-E01B38CB3A38/d:Managers/f:ClientsManager.cs" caret="0" fromTop="0" />
+      <File id="A2A1B396-B774-434D-A220-E01B38CB3A38/f:Client.cs" caret="402" fromTop="15" />
+      <File id="25C9D046-7DD9-4996-8CCD-41BF7B08B0AD/f:AnimatedGallery.cs" caret="214" fromTop="8" />
+      <File id="25C9D046-7DD9-4996-8CCD-41BF7B08B0AD/f:GameWindow.cs" caret="397" fromTop="13" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:RawBitmap.cs" caret="0" fromTop="0" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Renderer.cs" caret="3052" fromTop="114" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:ILighting.cs" caret="0" fromTop="0" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:VertexBuffer.cs" caret="0" fromTop="0" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:CompiledVertexBuffer.cs" caret="0" fromTop="0" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:TempGfxObjects.cs" caret="0" fromTop="0" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Point2D.cs" caret="1244" fromTop="33" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Point3D.cs" caret="1006" fromTop="33" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Point4D.cs" caret="0" fromTop="0" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:ColorF.cs" caret="0" fromTop="0" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Vertex.cs" caret="514" fromTop="16" />
+      <File id="E0AF32AD-FF06-4853-A423-70EC7F26B79C/f:Program.cs" caret="132" fromTop="6" />
+      <File id="A2A1B396-B774-434D-A220-E01B38CB3A38/f:Core.cs" caret="548" fromTop="19" />
+      <File id="A2A1B396-B774-434D-A220-E01B38CB3A38/f:Program.cs" caret="0" fromTop="0" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Point4D.cs" caret="26" fromTop="0" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Point4D.cs" caret="260" fromTop="6" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Point4D.cs" caret="400" fromTop="13" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Point4D.cs" caret="670" fromTop="19" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Point4D.cs" caret="757" fromTop="24" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Point4D.cs" caret="1324" fromTop="28" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Point4D.cs" caret="1358" fromTop="25" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:ColorF.cs" caret="26" fromTop="0" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:ColorF.cs" caret="427" fromTop="11" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:ColorF.cs" caret="796" fromTop="25" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:ColorF.cs" caret="630" fromTop="16" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:ColorF.cs" caret="784" fromTop="24" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:ColorF.cs" caret="969" fromTop="23" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:ColorF.cs" caret="1570" fromTop="29" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Vertex.cs" caret="26" fromTop="0" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Vertex.cs" caret="621" fromTop="14" />
+      <File id="753D2CE5-7041-49E1-9A94-907B27435EB6/f:Vertex.cs" caret="514" fromTop="16" />
+      <File id="E0AF32AD-FF06-4853-A423-70EC7F26B79C/f:Program.cs" caret="132" fromTop="6" />
+      <File id="A2A1B396-B774-434D-A220-E01B38CB3A38/f:Program.cs" caret="132" fromTop="8" />
+      <File id="A2A1B396-B774-434D-A220-E01B38CB3A38/f:Core.cs" caret="548" fromTop="19" />
+      <File id="A2A1B396-B774-434D-A220-E01B38CB3A38/f:Program.cs" caret="0" fromTop="0" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Core`0" priority="3" />
+      <Item value="public" priority="57" />
+      <Item value="void" priority="16" />
+      <Item value="static" priority="8" />
+      <Item value="string" priority="12" />
+      <Item value="TheadSafeConsole`0" priority="0" />
+      <Item value="params" priority="0" />
+      <Item value="private" priority="9" />
+      <Item value="object" priority="1" />
+      <Item value="new" priority="15" />
+      <Item value="lock" priority="0" />
+      <Item value="Console`0" priority="9" />
+      <Item value="message" priority="1" />
+      <Item value="format" priority="0" />
+      <Item value="color" priority="7" />
+      <Item value="ThreadSafeConsole`0" priority="0" />
+      <Item value="DateTime`0" priority="1" />
+      <Item value="bool" priority="2" />
+      <Item value="while" priority="0" />
+      <Item value="reason" priority="0" />
+      <Item value="RandomGenerator`0" priority="0" />
+      <Item value="time" priority="0" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="time1" priority="0" />
+      <Item value="time0" priority="0" />
+      <Item value="timeStep" priority="2" />
+      <Item value="Math" priority="0" />
+      <Item value="System" priority="1" />
+      <Item value="Math`0" priority="0" />
+      <Item value="if" priority="6" />
+      <Item value="return" priority="11" />
+      <Item value="_clients" priority="2" />
+      <Item value="ClientsManager" priority="1" />
+      <Item value="using" priority="7" />
+      <Item value="ClientsManager`0" priority="0" />
+      <Item value="Clients" priority="0" />
+      <Item value="namespace" priority="2" />
+      <Item value="Makarov" priority="1" />
+      <Item value="Framework" priority="2" />
+      <Item value="Components" priority="0" />
+      <Item value="sealed" priority="1" />
+      <Item value="class" priority="3" />
+      <Item value="GameWindow`0" priority="0" />
+      <Item value="_mainWindow" priority="1" />
+      <Item value="GameWindow" priority="0" />
+      <Item value="MainWindow" priority="2" />
+      <Item value="CenterScreen" priority="0" />
+      <Item value="Graphics`0" priority="1" />
+      <Item value="gfx" priority="1" />
+      <Item value="Color`0" priority="4" />
+      <Item value="Makarov.Framework" priority="1" />
+      <Item value="abstract" priority="1" />
+      <Item value="virtual" priority="2" />
+      <Item value="int" priority="5" />
+      <Item value="FormatException`0" priority="0" />
+      <Item value="Form`0" priority="1" />
+      <Item value="_wnd" priority="5" />
+      <Item value="window" priority="0" />
+      <Item value="Graphics" priority="2" />
+      <Item value="Drawing" priority="0" />
+      <Item value="Redraw`0" priority="0" />
+      <Item value="Core" priority="0" />
+      <Item value="MakarovFrameworkException`0" priority="0" />
+      <Item value="protected" priority="1" />
+      <Item value="base" priority="1" />
+      <Item value="_disposed" priority="1" />
+      <Item value="throw" priority="0" />
+      <Item value="RendererAlreadyDisposedException" priority="0" />
+      <Item value="true" priority="2" />
+      <Item value="Renderer`0" priority="0" />
+      <Item value="Renderer" priority="0" />
+      <Item value="MainRenderer" priority="1" />
+      <Item value="float" priority="17" />
+      <Item value="X" priority="1" />
+      <Item value="x" priority="0" />
+      <Item value="Y" priority="1" />
+      <Item value="y" priority="0" />
+      <Item value="implicit" priority="1" />
+      <Item value="operator" priority="3" />
+      <Item value="Point2D`0" priority="1" />
+      <Item value="Point2D" priority="0" />
+      <Item value="pt" priority="4" />
+      <Item value="explicit" priority="1" />
+      <Item value="Point`0" priority="0" />
+      <Item value="Point" priority="0" />
+      <Item value="z" priority="0" />
+      <Item value="w" priority="0" />
+      <Item value="Point4D`0" priority="0" />
+      <Item value="Point4D" priority="0" />
+      <Item value="Z" priority="0" />
+      <Item value="struct" priority="1" />
+      <Item value="ColorF`0" priority="4" />
+      <Item value="R" priority="2" />
+      <Item value="G" priority="2" />
+      <Item value="B" priority="2" />
+      <Item value="r" priority="0" />
+      <Item value="g" priority="0" />
+      <Item value="b" priority="0" />
+      <Item value="A" priority="1" />
+      <Item value="a" priority="0" />
+      <Item value="ColorF" priority="0" />
+      <Item value="Color" priority="1" />
+      <Item value="ContentAlignment`0" priority="0" />
+      <Item value="Point3D`0" priority="3" />
+      <Item value="Vertex`0" priority="0" />
+      <Item value="Coords" priority="0" />
+      <Item value="coords" priority="0" />
+      <Item value="Normal" priority="0" />
+      <Item value="normal" priority="0" />
+      <Item value="Game" priority="1" />
+      <Item value="_game" priority="1" />
+      <Item value="var" priority="2" />
+      <Item value="override" priority="0" />
+      <Item value="colors" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="GraphicsDeviceManager" priority="0" />
+      <Item value="i" priority="7" />
+      <Item value="this" priority="0" />
+      <Item value="else" priority="0" />
+      <Item value="direction" priority="4" />
+      <Item value="Matrix`0" priority="1" />
+      <Item value="VertexBuffer`0" priority="0" />
+      <Item value="Instance" priority="0" />
+      <Item value="InstanceHelper`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.Game.Server.Core">
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="Write`0" priority="2" />
+      <Item value="WriteLine`0" priority="0" />
+      <Item value="ForegroundColor" priority="2" />
+      <Item value="ReadKey`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.Framework.Core.ThreadSafeConsole">
+      <Item value="WriteLine`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.ConsoleColor">
+      <Item value="Cyan" priority="0" />
+      <Item value="Yellow" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Empty" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.Thread">
+      <Item value="Sleep`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.Framework.Core.RandomGenerator">
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Core.RandomGenerator">
+      <Item value="Next`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalMilliseconds" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Math">
+      <Item value="Ceiling`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Makarov.Game.Client.Core">
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Game.Client.Core">
+      <Item value="Run`0" priority="0" />
+      <Item value="Window" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.Application">
+      <Item value="EnableVisualStyles`0" priority="0" />
+      <Item value="Run`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Components.GameWindow">
+      <Item value="Width" priority="0" />
+      <Item value="Handle" priority="0" />
+      <Item value="Height" priority="0" />
+      <Item value="StartPosition" priority="0" />
+      <Item value="DrawScene" priority="0" />
+      <Item value="CreateGraphics`0" priority="0" />
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Graphics">
+      <Item value="Clear`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Form">
+      <Item value="CreateGraphics`0" priority="0" />
+      <Item value="Resize" priority="0" />
+      <Item value="Paint" priority="0" />
+      <Item value="ClientSize" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Drawing.Color">
+      <Item value="Blue" priority="0" />
+      <Item value="FromArgb`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Size">
+      <Item value="Width" priority="0" />
+      <Item value="Height" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Graphics.Renderer">
+      <Item value="Redraw`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Point">
+      <Item value="X" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Makarov.Framework.Graphics.Point2D">
+      <Item value="X" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Drawing.Color">
+      <Item value="R" priority="0" />
+      <Item value="G" priority="0" />
+      <Item value="B" priority="0" />
+      <Item value="A" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Game">
+      <Item value="Run`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Color">
+      <Item value="Magenta" priority="0" />
+      <Item value="White" priority="0" />
+      <Item value="FromNonPremultiplied`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GraphicsDeviceManager">
+      <Item value="GraphicsDevice" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameWindow">
+      <Item value="AllowUserResizing" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

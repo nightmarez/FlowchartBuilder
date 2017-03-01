@@ -1,0 +1,14 @@
+C:\MakarovProject\Makarov\Framework\Serialization\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov\Framework\Serialization\bin\Debug\Makarov.Framework.Serialization.dll
+C:\MakarovProject\Makarov\Framework\Serialization\bin\Debug\Makarov.Framework.Serialization.pdb
+C:\MakarovProject\Makarov\Framework\Serialization\bin\Debug\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov\Framework\Serialization\bin\Debug\Makarov.Framework.Core.pdb
+C:\MakarovProject\Makarov\Framework\Serialization\obj\Debug\Makarov.Framework.Serialization.dll
+C:\MakarovProject\Makarov\Framework\Serialization\obj\Debug\Makarov.Framework.Serialization.pdb
+C:\MakarovProject\Makarov.Framework.Serialization\bin\Debug\Makarov.Framework.Serialization.dll
+C:\MakarovProject\Makarov.Framework.Serialization\bin\Debug\Makarov.Framework.Serialization.pdb
+C:\MakarovProject\Makarov.Framework.Serialization\bin\Debug\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov.Framework.Serialization\bin\Debug\Makarov.Framework.Core.pdb
+C:\MakarovProject\Makarov.Framework.Serialization\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.Framework.Serialization\obj\Debug\Makarov.Framework.Serialization.dll
+C:\MakarovProject\Makarov.Framework.Serialization\obj\Debug\Makarov.Framework.Serialization.pdb

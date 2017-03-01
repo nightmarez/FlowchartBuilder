@@ -1,0 +1,17 @@
+C:\MakarovProject\Makarov.Framework.Core.Components\bin\Debug\Makarov.Framework.Components.dll
+C:\MakarovProject\Makarov.Framework.Core.Components\bin\Debug\Makarov.Framework.Components.pdb
+C:\MakarovProject\Makarov.Framework.Core.Components\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.Framework.Core.Components\obj\Debug\Makarov.Framework.Components.dll
+C:\MakarovProject\Makarov.Framework.Core.Components\obj\Debug\Makarov.Framework.Components.pdb
+C:\MakarovProject\Makarov\Framework\Components\bin\Debug\Makarov.Framework.Components.dll
+C:\MakarovProject\Makarov\Framework\Components\bin\Debug\Makarov.Framework.Components.pdb
+C:\MakarovProject\Makarov\Framework\Components\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov\Framework\Components\obj\Debug\Makarov.Framework.Components.dll
+C:\MakarovProject\Makarov\Framework\Components\obj\Debug\Makarov.Framework.Components.pdb
+C:\MakarovProject\Makarov.Framework.Components\bin\Debug\Makarov.Framework.Components.dll
+C:\MakarovProject\Makarov.Framework.Components\bin\Debug\Makarov.Framework.Components.pdb
+C:\MakarovProject\Makarov.Framework.Components\obj\Debug\ResolveAssemblyReference.cache
+C:\MakarovProject\Makarov.Framework.Components\obj\Debug\Makarov.Framework.Components.dll
+C:\MakarovProject\Makarov.Framework.Components\obj\Debug\Makarov.Framework.Components.pdb
+C:\MakarovProject\Makarov.Framework.Components\bin\Debug\Makarov.Framework.Core.dll
+C:\MakarovProject\Makarov.Framework.Components\bin\Debug\Makarov.Framework.Core.pdb
